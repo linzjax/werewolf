@@ -3,7 +3,7 @@ body {
 }
 
 input[type=checkbox] {
-  display:none;
+  display: none;
 }
 
 input[name=doppelganger] + label {
@@ -44,10 +44,6 @@ input[name=villager] + label {
 input[name=werewolf] + label {
 	background: url('/img/werewolf.png');
 }
-   
-input[type=checkbox]:checked + label {
-	opacity: 1;
-}
 
 .card {
   display: inline-block;
@@ -61,4 +57,8 @@ input[type=checkbox] + label {
 	padding: 0 0 0 0px;
 	opacity: 0.5;
   background-size: cover;
+}
+
+input[type=checkbox]:checked + label {
+	opacity: 1;
 }
