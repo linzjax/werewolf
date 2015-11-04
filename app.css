@@ -1,0 +1,25 @@
+body {
+	font-family: sans-serif;
+}
+
+input[type=checkbox] {
+  display:none;
+}
+ 
+input[type=checkbox] + label {
+	background: url('http://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f5/Werewolf.png');
+	height: 30px;
+	width: 30px;
+	display:inline-block;
+	padding: 0 0 0 0px;
+	opacity: 0.5;
+}
+   
+input[type=checkbox]:checked + label {
+	background: url('http://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f5/Werewolf.png');
+	height: 30px;
+	width: 30px;
+	display:inline-block;
+	padding: 0 0 0 0px;
+	opacity: 1;
+}
