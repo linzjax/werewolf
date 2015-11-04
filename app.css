@@ -57,8 +57,14 @@ input[type=checkbox] + label {
 	padding: 0 0 0 0px;
 	opacity: 0.5;
   background-size: cover;
+	-webkit-transition: opacity .25s ease-in-out;
+	-o-transition: opacity .25s ease-in-out;
+	transition: opacity .25s ease-in-out;
 }
 
 input[type=checkbox]:checked + label {
 	opacity: 1;
+	-webkit-transition: opacity .25s ease-in-out;
+	-o-transition: opacity .25s ease-in-out;
+	transition: opacity .25s ease-in-out;
 }
