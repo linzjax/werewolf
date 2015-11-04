@@ -5,21 +5,60 @@ body {
 input[type=checkbox] {
   display:none;
 }
- 
-input[type=checkbox] + label {
-	background: url('http://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f5/Werewolf.png');
-	height: 30px;
-	width: 30px;
-	display:inline-block;
-	padding: 0 0 0 0px;
-	opacity: 0.5;
+
+input[name=doppelganger] + label {
+	background: url('/img/doppelganger.png');
+}
+
+input[name=drunk] + label {
+	background: url('/img/drunk.png');
+}
+
+input[name=hunter] + label {
+	background: url('/img/hunter.png');
+}
+input[name=insomniac] + label {
+	background: url('/img/insomniac.png');
+}
+input[name=mason] + label {
+	background: url('/img/mason.png');
+}
+input[name=minion] + label {
+	background: url('/img/minion.png');
+}
+input[name=robber] + label {
+	background: url('/img/robber.png');
+}
+input[name=seer] + label {
+	background: url('/img/seer.png');
+}
+input[name=tanner] + label {
+	background: url('/img/tanner.png');
+}
+input[name=troublemaker] + label {
+	background: url('/img/troublemaker.png');
+}
+input[name=villager] + label {
+	background: url('/img/villager.png');
+}
+input[name=werewolf] + label {
+	background: url('/img/werewolf.png');
 }
    
 input[type=checkbox]:checked + label {
-	background: url('http://hydra-media.cursecdn.com/terraria.gamepedia.com/f/f5/Werewolf.png');
-	height: 30px;
-	width: 30px;
-	display:inline-block;
-	padding: 0 0 0 0px;
 	opacity: 1;
+}
+
+.card {
+  display: inline-block;
+  position: relative;
+}
+
+input[type=checkbox] + label {
+	height: 274px;
+	width: 200px;
+	display: inline-block;
+	padding: 0 0 0 0px;
+	opacity: 0.5;
+  background-size: cover;
 }
