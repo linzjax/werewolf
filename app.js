@@ -6,12 +6,12 @@ function filename(str) {
 }
 
 $('.play-game').on('click', function() { 
+	
 	var cardNodes = document.querySelectorAll('.card input:checked');
 	var cards = Array.prototype.slice.call(cardNodes, 0);
 	var peepsList = cards.map(function(el) { return $(el).val(); });
 
 	var peepsOrder = ['werewolf','minion','mason','seer','robber','troublemaker','drunk','insomniac'];
-
 
 	var peeps = peepsOrder.filter(function(e){
 			return peepsList.indexOf(e) !== -1;
@@ -23,19 +23,7 @@ $('.play-game').on('click', function() {
 
 	var peepsNoForReals = [].concat.apply([], peepsAudio);
 
-
-
 	queueAudio(peepsNoForReals);
-
-	
-	
-
-
-	Object.keys(peeps).forEach(function(e){
-		
-	})
-
-
 
 });
 
