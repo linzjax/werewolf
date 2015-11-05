@@ -54,7 +54,3 @@ function queueAudio(files) {
 // var doppelganger = {
 // 	[['doppelganger_close', 500],['doppelganger_close', 500], ['doppleganger_' + variable]]
 // }
-
-// var peeps = function()
-
-//queueAudio([['doppelganger_close', 5000], ['doppelganger_wake', 8000],['doppelganger_close', 5000], ['doppelganger_wake', 8000]]);
