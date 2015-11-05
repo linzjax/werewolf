@@ -1,22 +1,13 @@
-// var connect = require('connect');
-// var serveStatic = require('serve-static');
-// connect().use(serveStatic(__dirname)).listen(8080);
+var express = require('express');
+var app = express();
 
-var http = require('http'),
-		fs = require('fs');
+app.use(express.static('public'));
 
-http.createServer(function(request, response) {
+app.get('/', function (req, res) {
+  res.sendFile('./index.html', { root: __dirname });
+});
 
-	fs.readFile('./index.html', function (err, html) {
-	  if (err) {
-	  	response.writeHeader(404);
-	  	response.write('Nothing was found!');
-	  	response.end();
-	  } else {
-	  	response.writeHeader(200, {'Content-Type': 'text/html'});  
-	  	response.write(html);  
-	  	response.end();  
-		}
-	});
-
-}).listen(29600);
+var server = app.listen(29600, function () {
+  var host = server.address().address;
+  var port = server.address().port;
+});
