@@ -1,0 +1,1972 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_65 (Apple Inc.)
+
+Name: assets/sounds/en_male_expert_witch_wake.mp3
+SHA1-Digest: q3cWeGIE5J3Jl3VPzMoUr4QpD+A=
+
+Name: res/raw/corona_asset_widget_theme_onoff_mask_android_holo.png
+SHA1-Digest: BxONhI5M+fiB2q8fUafniBFgVho=
+
+Name: res/drawable-xxxhdpi-v4/icon.png
+SHA1-Digest: idwmXJ8jw4gJgcDUFbqV0gwpjcA=
+
+Name: res/drawable/spinner_9.png
+SHA1-Digest: vwIF6vPVgj25NrtchdvXG7amIP8=
+
+Name: assets/sounds/en_male_tanner_thumb.mp3
+SHA1-Digest: RBFF5Mt+riW42eSRVGC7R+v+Ddc=
+
+Name: assets/sounds/en_male_auraseer_wake_marks.mp3
+SHA1-Digest: nuwPACuBzri2U1XpjAW0UwMHvCU=
+
+Name: assets/button.png
+SHA1-Digest: qFCVSC4tFRrDz8dEQpGcG2uiUzw=
+
+Name: assets/sounds/en_male_expert_mason_wake.mp3
+SHA1-Digest: h7EVuhJxH3qyzA5qbqFZjHJ+hSg=
+
+Name: assets/sounds/en_female_seer_wake.mp3
+SHA1-Digest: V+S/hEZYVtnI7WEkSJWHEuWDQHc=
+
+Name: assets/sounds/en_male_expert_seer_wake.mp3
+SHA1-Digest: AzUVAXuyZP9ynq025kRvfva8000=
+
+Name: assets/sounds/en_female_doppelganger_verb_drunk.mp3
+SHA1-Digest: lLvMByH3EBV9J5/HJmWPkZA2j94=
+
+Name: assets/resource.car
+SHA1-Digest: CfyxZRLAyeP6cvGafkOHu122QlM=
+
+Name: assets/sounds/en_female_doppelganger_verb_robber.mp3
+SHA1-Digest: ayJv6fVbCp4XbmlSVqVEN2Olm7g=
+
+Name: assets/sounds/en_female_expert_alphawolf_wake.mp3
+SHA1-Digest: j4U8Frk1MyU/DkyDu4pTQp1tI9k=
+
+Name: assets/sounds/en_female_expert_marksman_wake.mp3
+SHA1-Digest: YvEiIKBYTQ0lirZI5L9lYbgcn0k=
+
+Name: assets/sounds/en_female_random_4.mp3
+SHA1-Digest: RR9+ttkBCHV1mMQvj5nfb03WAWU=
+
+Name: assets/sounds/en_female_mysticwolf_close.mp3
+SHA1-Digest: n5PquQdg/u+B5aUbiXkTW1jbEfs=
+
+Name: assets/sounds/en_male_expert_marksman_wake.mp3
+SHA1-Digest: /03Slq/7UkYCl1R/Fdc8hKw+ZoE=
+
+Name: assets/sounds/en_female_everyone_close.mp3
+SHA1-Digest: SFYFBUeFdor2jSe2zdNZ3LaNYWM=
+
+Name: assets/sounds/en_female_expert_vampire_renfield_handsaway.mp3
+SHA1-Digest: e/w4TGMfsvcC4EobIeT7zzSzmhU=
+
+Name: assets/sounds/en_female_doppelganger_renfield_wake.mp3
+SHA1-Digest: Jydh7o6Zcy+Sw6EqXBV+L+GV3cw=
+
+Name: assets/sounds/en_female_random_5.mp3
+SHA1-Digest: b4xjarAGbWFC4CuZjFYxCOnKkI4=
+
+Name: assets/sounds/en_male_expert_revealer_wake.mp3
+SHA1-Digest: AvsEoXKK1pYw9yJr3lMdvH76npo=
+
+Name: assets/sounds/en_female_instigator_wake.mp3
+SHA1-Digest: TMtuPQtVXL9F32y/kVwZL32Csfk=
+
+Name: assets/sounds/en_male_werewolf_close.mp3
+SHA1-Digest: 8DQ3vRn6jRqqSqH+Yuz49To9LD4=
+
+Name: assets/sounds/en_male_beholder_seer_appseer_wake.mp3
+SHA1-Digest: gd5Dbz2f8Q8iGh9RtKD6o12Qvwk=
+
+Name: assets/sounds/en_male_instigator_close.mp3
+SHA1-Digest: qS/RcTG2Qmf3hLgsUpu3faGdDBk=
+
+Name: assets/sounds/en_female_alphawolf_close.mp3
+SHA1-Digest: gAAYl237fZFE6fhcGGVPu/C2akU=
+
+Name: assets/sounds/en_male_squire_ww_thumb.mp3
+SHA1-Digest: hFcR5+Ajy4vxFKskA/CtrlizilA=
+
+Name: assets/sounds/en_male_marksman_close.mp3
+SHA1-Digest: bfVWXHWyCQlqmZKs/Nbxm0ma27o=
+
+Name: assets/sounds/en_male_expert_appassassin_wake.mp3
+SHA1-Digest: xVmhBdaS8CB1ETHcTvjS9IUPm8k=
+
+Name: assets/sounds/en_female_expert_vampire_wake.mp3
+SHA1-Digest: pwGKY/nF7ow95ncCgXz7WPW1+NA=
+
+Name: assets/button_add.png
+SHA1-Digest: cxHiscL9CnTfIEhKBXNioKcxbmA=
+
+Name: assets/sounds/en_female_assassin_appassassin_close.mp3
+SHA1-Digest: M4Mz4JwT6pBYadxCzpKjDkvoMRw=
+
+Name: assets/sounds/en_female_beholder_seer_wake.mp3
+SHA1-Digest: eYqMHY2em3lwew1nyHoTiXW5Ct8=
+
+Name: assets/sounds/en_female_marksman_wake.mp3
+SHA1-Digest: fJj4utxJKV5QNG9PWcdM47MENAQ=
+
+Name: assets/sounds/en_female_minion_thumb.mp3
+SHA1-Digest: wWATPHwMmfJF57wBh74dIzKMbSg=
+
+Name: assets/sounds/en_male_expert_squire_wake.mp3
+SHA1-Digest: N89qxorbkLMbvnOK/19zEW9Ttfw=
+
+Name: res/drawable-mdpi-v4/ic_menu_camera.png
+SHA1-Digest: eEZv9dRZ7N7PSm4iAr8RCyzZn04=
+
+Name: assets/sounds/en_female_expert_doppelganger_priest_wake.mp3
+SHA1-Digest: RuU6M2eht+hR6N1UL0GcqrbjSqw=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_light_4x.png
+SHA1-Digest: wnzHSy1KBHJMD+zCw6ThiUJ/1LI=
+
+Name: res/drawable-ldpi-v4/ic_maps_indicator_current_position_anim1.pn
+ g
+SHA1-Digest: O8P0W9g9IKVOnIDRzeDnM5Y1wfA=
+
+Name: res/raw/corona_map_view.html
+SHA1-Digest: s0T2rKV2UsY7PhEBBVItOYxb3HI=
+
+Name: assets/sounds/en_male_auraseer_thumbs.mp3
+SHA1-Digest: E0ST1Lx021k93azU08aJc5P4UxQ=
+
+Name: assets/sounds/en_female_expert_count_wake.mp3
+SHA1-Digest: fyzQPHK4xz9aZQ0Ks5zKwLY+TYo=
+
+Name: assets/sounds/en_female_copycat_close.mp3
+SHA1-Digest: f4v5gsQqmOdjJrMqpWHHbtXKj3w=
+
+Name: assets/sounds/en_male_curator_wake.mp3
+SHA1-Digest: TEjxHNgxwhp7vBpi28aaeF+uvvc=
+
+Name: assets/sounds/en_male_count_close.mp3
+SHA1-Digest: xDoNQirl5P8625y18M+TU2SqArY=
+
+Name: assets/sounds/en_male_appassassin_assassin_wake.mp3
+SHA1-Digest: X0DwfLFh9jMYKBrhBvNoZLDqiY8=
+
+Name: assets/sounds/en_male_expert_doppelganger_renfield_wake.mp3
+SHA1-Digest: +Gu8n/ygkjaJOhm4FWpQUQTTz2I=
+
+Name: assets/sounds/en_female_doppelganger_verb_wake.mp3
+SHA1-Digest: C+YXQr4/gJJhKJQQw56SH4J+7tQ=
+
+Name: assets/sounds/en_male_doppelganger_verb_or.mp3
+SHA1-Digest: nKCJ241oBQvvRCXSPv0kcvJoU48=
+
+Name: assets/sounds/en_male_pi_duskwake.mp3
+SHA1-Digest: ADF4RSY4Pj0PaRKHYM+Ttfoo9MA=
+
+Name: assets/sounds/en_male_expert_werewolf_wake.mp3
+SHA1-Digest: ReTGxm+RU/eki4qnXxlYnuhzqDY=
+
+Name: assets/sounds/en_female_doppelganger_verb_action.mp3
+SHA1-Digest: syObuf2B6UNtZYel8LwdQ11fKHM=
+
+Name: assets/sounds/en_male_doppelganger_appassassin_wake.mp3
+SHA1-Digest: TSEQvBdQzmPHdpzsadHEi2m9GPc=
+
+Name: assets/sounds/en_male_expert_sentinel_wake.mp3
+SHA1-Digest: gj2ENBbeRLkbNTcC/YhdJX7icGs=
+
+Name: assets/sounds/en_male_expert_squire_ww_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_male_expert_thing_wake.mp3
+SHA1-Digest: 8prbdMLB6TAdj/PpF5ln+yaNy34=
+
+Name: assets/sounds/en_female_doppelganger_verb_or.mp3
+SHA1-Digest: le7n3E1vtTFBBlW05nX9q4daHeU=
+
+Name: assets/sounds/en_male_expert_beholder_seer_appseer_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: res/drawable-ldpi-v4/ic_maps_indicator_current_position_anim2.pn
+ g
+SHA1-Digest: eLh68ub980GPK4TSVf19xSMil0A=
+
+Name: assets/sounds/en_male_expert_easteregg_weirdos.mp3
+SHA1-Digest: u9/G6C4SPtB2HHJzVDa99mnidMc=
+
+Name: assets/sounds/en_female_expert_pickpocket_wake.mp3
+SHA1-Digest: 9/Usiqp9Ck3JIWidHgc/YFVtbyk=
+
+Name: assets/sounds/en_female_random_3.mp3
+SHA1-Digest: 5AbMEvUcQAYXUnVikSKw5Gu0d/M=
+
+Name: assets/sounds/en_male_thing_wake.mp3
+SHA1-Digest: Oj+J9SzCQUUWEWTw2U8vihAitRU=
+
+Name: assets/sounds/en_male_copycat_close.mp3
+SHA1-Digest: +rw16MEIh9CR82ACSuxzjFEvwbo=
+
+Name: assets/sounds/en_female_vampire_wake.mp3
+SHA1-Digest: BZIcbd11JMDeDxHXus3yUGsaIGU=
+
+Name: assets/sounds/en_female_expert_doppelganger_revealer.mp3
+SHA1-Digest: wkuU0BW3wAdNx8dTo10gsaVDqIE=
+
+Name: assets/sounds/en_male_appseer_wake.mp3
+SHA1-Digest: 1kfqz8ZVJj5QzW0qSanooCB2A30=
+
+Name: assets/sounds/en_male_expert_doppelganger_apptanner_wake.mp3
+SHA1-Digest: iSmSunfTJMngwQxRYF0zJ+UloJU=
+
+Name: assets/sounds/en_female_random_6.mp3
+SHA1-Digest: EqRo+nvQHxhp7eo2MVb6aBuZOBE=
+
+Name: res/drawable-mdpi-v4/ic_maps_indicator_current_position_anim2.pn
+ g
+SHA1-Digest: lkA4vjFZv8CO1t5X3mVSI0rOmrA=
+
+Name: assets/background.png
+SHA1-Digest: KaFYOlTp8siNErdqrFGgWIhdj10=
+
+Name: assets/sounds/en_female_expert_gremlin_wake.mp3
+SHA1-Digest: jY845Lq297z/xYGffcKBES8h2Os=
+
+Name: assets/sounds/en_female_expert_doppelganger_revealer_dusk.mp3
+SHA1-Digest: wkuU0BW3wAdNx8dTo10gsaVDqIE=
+
+Name: assets/sounds/en_female_mason_close.mp3
+SHA1-Digest: KP7UIy/ugbzE/1ttQ9IAXwA6h3Y=
+
+Name: assets/sounds/en_female_expert_auraseer_wake.mp3
+SHA1-Digest: acyEiJhoHLCf4qzWUMTl5zLc6WU=
+
+Name: assets/sounds/en_male_expert_curator_wake.mp3
+SHA1-Digest: 7kFLlaJBcOqo6TBp3shplm53AJQ=
+
+Name: assets/sounds/en_female_random_18.mp3
+SHA1-Digest: +O86aPfm991JuZgwRuWmwciIFTw=
+
+Name: assets/sounds/en_female_apptanner_wake.mp3
+SHA1-Digest: 0r7vijA3Uk+23onVWgVLJQ5zcew=
+
+Name: assets/sounds/en_female_doppelganger_wake.mp3
+SHA1-Digest: U/L0XIiepd3w6bipnCm8R6q3hUU=
+
+Name: assets/sounds/en_female_expert_doppelganger_revealer_dusk_vampir
+ e.mp3
+SHA1-Digest: wkuU0BW3wAdNx8dTo10gsaVDqIE=
+
+Name: assets/sounds/en_female_mason_wake.mp3
+SHA1-Digest: /SwTm14b92zCzffRwuM8YqzZbDs=
+
+Name: res/drawable/spinner_6.png
+SHA1-Digest: gEcnNNv7MGIHnOgQ4rXxMuLNoZY=
+
+Name: assets/sounds/en_female_expert_doppelganger_gremlin_wake.mp3
+SHA1-Digest: W1JSGUhn5lTlShVtF/C1B8nHNCc=
+
+Name: res/drawable-mdpi-v4/ic_menu_refresh.png
+SHA1-Digest: HSuZ4fFeLkrBljYAo5pA/PA03sY=
+
+Name: res/drawable/gc_overlay_spinner.xml
+SHA1-Digest: vR9dlcnzzas154rW6NoUEkig43I=
+
+Name: assets/sounds/en_male_squire_wake.mp3
+SHA1-Digest: KuB13FWSlWwWxLIT3TMeqMgbcoA=
+
+Name: assets/sounds/en_female_count_wake.mp3
+SHA1-Digest: zPRxoL1V+NJrNckbzn1jK+XHGVo=
+
+Name: assets/sounds/en_female_vampire_renfield_handsaway.mp3
+SHA1-Digest: uzu958VA21pP1n4maEu/Bcq9S7Y=
+
+Name: assets/sounds/en_male_expert_beholder_seer_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_female_revealer_close.mp3
+SHA1-Digest: PiDzHxFtgMQQwVIAyZqVuj8qmGg=
+
+Name: assets/sounds/en_male_pickpocket_close.mp3
+SHA1-Digest: zQ0wZLJbZEm2C5j1CbC3CWEt4BI=
+
+Name: assets/sounds/en_male_expert_doppelganger_assassin_wake.mp3
+SHA1-Digest: 9/akN/allPqfSdNgb15iZgqqhT8=
+
+Name: assets/sounds/en_male_easteregg_really.mp3
+SHA1-Digest: bFolx++ULIfCMvbDFWVCwX3WXyc=
+
+Name: assets/sounds/en_male_gremlin_wake.mp3
+SHA1-Digest: kvK6QF2t2wAzrTJTvkEYiRWRFjI=
+
+Name: assets/sounds/en_female_expert_minion_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_female_mysticwolf_wake.mp3
+SHA1-Digest: PdcHO7dBUGUDq5NOGn2G53B1CCc=
+
+Name: assets/sounds/en_male_doppelganger_apptanner_wake.mp3
+SHA1-Digest: r5u2bllBRVVXB2t83dOzQqMXTaU=
+
+Name: res/drawable-xhdpi-v4/icon.png
+SHA1-Digest: j1THniTQXOGmJgWCUj1EN0CU0Ls=
+
+Name: lib/armeabi-v7a/liblicensing.so
+SHA1-Digest: PKLbT3glXbXMBmpQ9x8ZYuoXsbU=
+
+Name: assets/sounds/en_female_expert_everyone_prepare.mp3
+SHA1-Digest: SQxWwlEe5iW/6B8A4e3YodP7pIs=
+
+Name: lib/armeabi-v7a/libanalytics.so
+SHA1-Digest: v2qA2CAirCW8vQYmC/XFRENRGSA=
+
+Name: assets/sounds/en_female_expert_seer_wake.mp3
+SHA1-Digest: 3W7y/ITWpkemzIqlS/73AyophuQ=
+
+Name: assets/sounds/en_female_expert_thing_wake.mp3
+SHA1-Digest: +IlA2g1kwovBSxkBh+repWSOyZY=
+
+Name: res/raw/corona_asset_widget_theme_ios7.png
+SHA1-Digest: ZCTmq+yARslGzAkxJNHnP4RBK/k=
+
+Name: assets/sounds/en_male_expert_diseased_wake.mp3
+SHA1-Digest: KAAaMq0MMPqN36lmz8Oucj/mW+Q=
+
+Name: assets/sounds/en_female_appassassin_close.mp3
+SHA1-Digest: 9FdGl3wjx58Ux/p6lRbKfoRDWqY=
+
+Name: assets/sounds/en_male_doppelganger_verb_sentinel.mp3
+SHA1-Digest: 7MkiYlIX4wT0KG36sctWwThm7n4=
+
+Name: assets/sounds/en_male_expert_doppelganger_marksman_wake.mp3
+SHA1-Digest: SYQR4GVtU2d7y1FEHUdCkSsdVmA=
+
+Name: assets/sounds/en_female_diseased_close.mp3
+SHA1-Digest: DPjwPOuYLp1WgXJMGy/HPg7Rqpo=
+
+Name: assets/sounds/en_female_seer_close.mp3
+SHA1-Digest: 9Oe6TnogKAydvzVjqsaEA2ywStI=
+
+Name: assets/sounds/en_female_everyone_wiggle_mark.mp3
+SHA1-Digest: uaf0HN3Mci5MlPNRLANw9DkHZFA=
+
+Name: assets/sounds/en_male_doppelganger_verb_seer.mp3
+SHA1-Digest: xXXEsfbcoSIkH3CD/zQ1mYS2FDo=
+
+Name: assets/sounds/en_male_expert_easteregg_really.mp3
+SHA1-Digest: I/hByLk/jifJ270ei71U7qHakag=
+
+Name: assets/sounds/en_female_expert_beholder_seer_appseer_wake.mp3
+SHA1-Digest: cmlj1ov58xadWRMGiAiFib/6aEg=
+
+Name: assets/sounds/en_female_cupid_wake.mp3
+SHA1-Digest: 4z+jKusyTKo4POxiukGIUpKcucc=
+
+Name: assets/sounds/en_male_renfield_wake.mp3
+SHA1-Digest: 3Ys2+clAsP8DX96teHCu+Qm+CbY=
+
+Name: lib/armeabi-v7a/libmpg123.so
+SHA1-Digest: 2CjEPOet6x6f1u1+l0XiAzBGoxk=
+
+Name: assets/sounds/en_male_expert_doppelganger_revealer.mp3
+SHA1-Digest: ZN43odUr1O0xfyAUuTcWt3mc3HI=
+
+Name: res/raw/corona_asset_widget_theme_onoff_mask.png
+SHA1-Digest: 951lcjr53tS4+s97rA7BB32ZiMk=
+
+Name: assets/sounds/en_female_thing_wake.mp3
+SHA1-Digest: iIShKEKs/+jNYf5q+T5SA20lmfw=
+
+Name: assets/sounds/en_male_expert_revealer_duskwake_vampire.mp3
+SHA1-Digest: AvsEoXKK1pYw9yJr3lMdvH76npo=
+
+Name: assets/sounds/en_female_thing_close.mp3
+SHA1-Digest: m+ErxPURPisscAE6wCTOmbdpzfc=
+
+Name: assets/sounds/en_male_witch_close.mp3
+SHA1-Digest: Yn+s+3XrWPQWZK/WxBvVaHkBTXA=
+
+Name: assets/sounds/en_female_everyone_dusk.mp3
+SHA1-Digest: ictULjcXFVXJYCXkHRQtNyy2yPs=
+
+Name: res/drawable-ldpi-v4/ic_menu_refresh.png
+SHA1-Digest: 2X1kJ69mGWf4mOkUHpJ6Y/vZyb4=
+
+Name: assets/sounds/en_male_sentinel_close.mp3
+SHA1-Digest: edSo9UHRwWlrL/xSl+ADEOuQcqE=
+
+Name: assets/sounds/en_male_expert_appseer_wake.mp3
+SHA1-Digest: leBom38+dH5ODiVfkSfP2Jc+j6g=
+
+Name: assets/sounds/en_female_beholder_seer_thumb.mp3
+SHA1-Digest: EOGePn2oPxJydZJSW/H7lbnH5T0=
+
+Name: assets/sounds/en_male_expert_vampire_renfield_handsaway.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_male_expert_minion_wake.mp3
+SHA1-Digest: UcTYpPi1ZgaB4B9cFef2wtErHjc=
+
+Name: assets/sounds/en_male_expert_doppelganger_appassassin_wake.mp3
+SHA1-Digest: zwPS63CVxwZ1iEq5GvCrV2eDqfM=
+
+Name: assets/Icon-ldpi.png
+SHA1-Digest: en3EparDLd0gDhs8fy+5ijSy+a8=
+
+Name: assets/Icon-hdpi.png
+SHA1-Digest: AKTTDsx1KjA3rgJVSBZ/ops7FJ8=
+
+Name: assets/sounds/en_female_doppelganger_insomniac.mp3
+SHA1-Digest: pgvSdsAC5vi5RH/valhcVJOY0Ek=
+
+Name: res/drawable-xhdpi-v4/ouya_icon.png
+SHA1-Digest: U6oapITOnS1N51rOKKvoEMCgFUU=
+
+Name: assets/Default-Portrait.png
+SHA1-Digest: CTvd8N7KDfxcEk4vcuz/RVI98KU=
+
+Name: assets/Icon-xhdpi.png
+SHA1-Digest: j1THniTQXOGmJgWCUj1EN0CU0Ls=
+
+Name: assets/sounds/en_female_curator_close.mp3
+SHA1-Digest: gD6UlE8jMuW1o223sWZLb2yntNI=
+
+Name: assets/sounds/en_male_expert_doppelganger_auraseer_marks.mp3
+SHA1-Digest: tuI0mn8ErSl4S1H1LpSFH6KMhqg=
+
+Name: assets/sounds/en_male_expert_vidiot_wake.mp3
+SHA1-Digest: ExEnbiU/50Few62xfsf1p/LKNdw=
+
+Name: assets/sounds/en_female_doppelganger_ev_thumbs.mp3
+SHA1-Digest: O8mu9Wcy1PuAOyjX5udYTM6T1GM=
+
+Name: res/drawable-xhdpi-v4/ic_maps_indicator_current_position.png
+SHA1-Digest: cELuiILwfnFOsoXNFlv8soVzF7M=
+
+Name: assets/sounds/en_male_apptanner_close.mp3
+SHA1-Digest: 1Wj0cHegoc531y1Z1y3dbM4iNQU=
+
+Name: res/drawable/rounded_corners.xml
+SHA1-Digest: nmk6X02TZRCDh//7AaTl01M0uU4=
+
+Name: assets/lang/en.txt
+SHA1-Digest: qKE0YP586sUijiWSxfSDtErUq9Q=
+
+Name: assets/sounds/en_male_troublemaker_close.mp3
+SHA1-Digest: bHNsvx7aQQBGJcRu3Pa44rIbtns=
+
+Name: assets/sounds/en_male_revealer_duskwake_vampire.mp3
+SHA1-Digest: Fl2dGMz1KoIOUBK6+Mn+kqPkarw=
+
+Name: assets/sounds/en_female_pickpocket_wake.mp3
+SHA1-Digest: cQwWQadK4MDIGW1xITv9gZVj3ss=
+
+Name: assets/scrollmask.png
+SHA1-Digest: ujnKAbVKTYZoavCRNJ1JtXLE9VQ=
+
+Name: res/drawable-xxxhdpi-v11/corona_statusbar_icon_default.png
+SHA1-Digest: pG5rh/6KTIqIpnAJItj+7HM9Hrc=
+
+Name: res/drawable-xxhdpi-v4/ic_menu_refresh.png
+SHA1-Digest: focFaJ+4P3lnSjapzrZv1qsAQfE=
+
+Name: assets/sounds/en_male_diseased_close.mp3
+SHA1-Digest: RphhjOeiHNvahaXYEheDt1ms3aM=
+
+Name: assets/sounds/en_male_marksman_wake.mp3
+SHA1-Digest: dRjO5GZbTtuy4RTSHF6SSRXqujE=
+
+Name: assets/sounds/en_female_doppelganger_minion.mp3
+SHA1-Digest: jSqKn7y+dyItXgpr4/Kl+2nAAIQ=
+
+Name: assets/sounds/en_female_sentinel_close.mp3
+SHA1-Digest: sXCAX0vpgewKlYGwnygricUfiFc=
+
+Name: assets/sounds/en_male_revealer_duskwake.mp3
+SHA1-Digest: 5mGMPThn2BnP1V6Nry1OYrcMuMY=
+
+Name: res/drawable-hdpi-v4/ic_maps_indicator_current_position_anim1.pn
+ g
+SHA1-Digest: yitCbgvyY/gUV0X51dioxzp9ymk=
+
+Name: assets/sounds/en_female_expert_doppelganger_beholder_seer_wake.m
+ p3
+SHA1-Digest: 2QthKRsuWfkiLg+vTTfg+8BFzJg=
+
+Name: assets/sounds/en_male_curator_close.mp3
+SHA1-Digest: l+CX3QY5IkrV0enh85Yujfkv28s=
+
+Name: assets/sounds/en_male_expert_cupid_wake.mp3
+SHA1-Digest: gplSLn9ql6LwVkrxqIta9Tiv8XY=
+
+Name: assets/sounds/en_male_expert_doppelganger_priest_wake.mp3
+SHA1-Digest: qxjXlTrN7v0kTi89JMadz/XwbLY=
+
+Name: assets/sounds/en_female_expert_instigator_wake.mp3
+SHA1-Digest: NqXapVR8z7/7VADoGq5eUpSmcx4=
+
+Name: res/raw/corona_asset_widget_theme_android_2x.png
+SHA1-Digest: GXb1cKFbPwg0n4A4Vr0D2zz5hQA=
+
+Name: assets/sounds/en_male_doppelganger_ev_thumbs.mp3
+SHA1-Digest: E0ST1Lx021k93azU08aJc5P4UxQ=
+
+Name: assets/sounds/en_male_pi_wake.mp3
+SHA1-Digest: vHBFNcOaijM9VFvwpy2vmiaWI+k=
+
+Name: assets/Default.png
+SHA1-Digest: l7n9SQPuH5fG9f8N7AAVi43gcwY=
+
+Name: assets/sounds/en_female_tanner_thumb.mp3
+SHA1-Digest: EUSFormixUxHwgW0DyiIrZjotBI=
+
+Name: assets/sounds/en_female_expert_doppelganger_appassassin_assassin
+ _wake.mp3
+SHA1-Digest: OYbUiSkrLiGUzvbu9t+5XVwCbQU=
+
+Name: assets/sounds/en_female_marksman_close.mp3
+SHA1-Digest: q94Evqu/vkEwDi27YGRTW8sh7sE=
+
+Name: assets/sounds/en_female_doppelganger_verb_mysticwolf.mp3
+SHA1-Digest: ZKO/3MKtrFMwUMux3BelqV/N9Ks=
+
+Name: assets/sounds/en_male_doppelganger_pickpocket_wake.mp3
+SHA1-Digest: l1bmoBH1ipNa1zY2q2aMPxvjw8E=
+
+Name: res/drawable/spinner_12.png
+SHA1-Digest: uMOyHLtZhC+XOzmLS8oHZUfHxUw=
+
+Name: res/drawable-xxhdpi-v4/ic_maps_indicator_current_position.png
+SHA1-Digest: cELuiILwfnFOsoXNFlv8soVzF7M=
+
+Name: assets/sounds/en_male_doppelganger_verb_witch.mp3
+SHA1-Digest: 2yhRJVeFhExEXTiqGP3xRS1l/fg=
+
+Name: assets/sounds/en_male_vampire_close.mp3
+SHA1-Digest: oC3v2rapIPMWZNjchYKZpHgQi8I=
+
+Name: assets/sounds/en_male_random_15.mp3
+SHA1-Digest: Kid7SEiv3deaf7ruqEw+R05lduU=
+
+Name: res/drawable-hdpi-v4/corona_statusbar_icon_default.png
+SHA1-Digest: skrXWEhNeZbDdzs4T7Rd85ek5y8=
+
+Name: assets/sounds/en_female_random_1.mp3
+SHA1-Digest: kWshHNnG8iUBx+LPcdjLj2q3BiE=
+
+Name: assets/sounds/en_female_random_21.mp3
+SHA1-Digest: YPVGWPZ/KdG2wxlTjA9wgVJXN/o=
+
+Name: assets/sounds/en_female_doppelganger_verb_witch.mp3
+SHA1-Digest: 2iX/Mh/7/ulNvA1HQtwu39DtHtQ=
+
+Name: res/drawable-xxhdpi-v4/ic_maps_indicator_current_position_anim1.
+ png
+SHA1-Digest: vXDCVmd6GU3uARCm2TLTX39geE0=
+
+Name: assets/sounds/en_female_troublemaker_wake.mp3
+SHA1-Digest: yKJIcNaTJQOStnVTWAFXGp/gNX0=
+
+Name: assets/sounds/en_male_doppelganger_verb_drunk.mp3
+SHA1-Digest: UgcMEEGK/BkcZtvy2YWoQAWgu8M=
+
+Name: res/drawable/spinner_2.png
+SHA1-Digest: A2uFK2cbEo+LvTDKk105K0TaFNY=
+
+Name: assets/sounds/en_female_expert_beholder_seer_appseer_thumb.mp3
+SHA1-Digest: UNYK/JeGARyEMHWKmPNaEZB2MPc=
+
+Name: assets/sounds/en_female_doppelganger_curator.mp3
+SHA1-Digest: DB0JPDWXsScqfd4lWtCbdhjmT/Q=
+
+Name: assets/sounds/en_male_expert_gremlin_wake.mp3
+SHA1-Digest: XpUW8Be+7Chm2Mk4hBchT24u73s=
+
+Name: assets/sounds/en_female_appseer_close.mp3
+SHA1-Digest: D2M0IAxMqwAZIDeXL9Xwa15gvtc=
+
+Name: assets/sounds/en_male_doppelganger_priest_wake.mp3
+SHA1-Digest: XsxX0T5vrAuW6c1akBBUFi3AKzo=
+
+Name: res/drawable-mdpi-v11/corona_statusbar_icon_default.png
+SHA1-Digest: cOdR9ptFjsJZcotzpWZ5BYKyZWE=
+
+Name: assets/sounds/en_female_vidiot_close.mp3
+SHA1-Digest: BfJzr8jOGn8ylZnGaQ3FJ3o6wT4=
+
+Name: assets/sounds/en_male_expert_lovers_wake.mp3
+SHA1-Digest: pekqsJJwHbtTc5eHLUNcNv9ZFvE=
+
+Name: assets/sounds/en_male_assassin_wake.mp3
+SHA1-Digest: wSZEFFNT9EllnVH5V7BAnz8mu8M=
+
+Name: assets/cards2.png
+SHA1-Digest: mJyvMJZS/pRCQyBqJtAyteZEM9c=
+
+Name: assets/sounds/en_male_expert_doppelganger_wake.mp3
+SHA1-Digest: YEVtp//62z8cDE4YS+8XlaA2C5w=
+
+Name: assets/sounds/en_male_timer_1min.mp3
+SHA1-Digest: dkMR9ZUqR9VChwe4grR3dxg5Ac4=
+
+Name: assets/sounds/en_male_expert_doppelganger_insomniac.mp3
+SHA1-Digest: O8jlL8Ysz3oUywUKc6OsPixErSM=
+
+Name: assets/sounds/en_female_random_19.mp3
+SHA1-Digest: hLA2lrmVKe7IDkHRhn/stg/UP3I=
+
+Name: assets/sounds/en_female_vampire_renfield_close.mp3
+SHA1-Digest: U6gKnSFAuk2VeeWtYAQSRlxmnds=
+
+Name: res/drawable-hdpi-v4/ic_maps_indicator_current_position_anim3.pn
+ g
+SHA1-Digest: /Wr9I/wCom+H+aoYgbh5ucpjMhM=
+
+Name: assets/sounds/en_male_count_wake.mp3
+SHA1-Digest: XcQ5AMDKycFx1Fvt3eFkEojh2jA=
+
+Name: assets/sounds/en_female_doppelganger_priest_wake.mp3
+SHA1-Digest: GGeHnD6lYGwQP7V0XInOOsHFxL0=
+
+Name: assets/sounds/en_female_gremlin_close.mp3
+SHA1-Digest: FQsGNXdsqHvm75GbbDD2o1pXaVQ=
+
+Name: lib/armeabi-v7a/libalmixer.so
+SHA1-Digest: 3jKjE303GeXCcga+h4aymUdt7vI=
+
+Name: AndroidManifest.xml
+SHA1-Digest: KuRof1HLADlAyYaQVTvn11mwZQY=
+
+Name: assets/sounds/en_female_random_11.mp3
+SHA1-Digest: fKWgO00zp8HhR0Q3i6LLjikEPbw=
+
+Name: assets/sounds/en_female_werewolf_close.mp3
+SHA1-Digest: +fMlCOWmRPNDFjqQ+VyeFs0gQC0=
+
+Name: assets/sounds/en_male_expert_beholder_seer_wake.mp3
+SHA1-Digest: akWe2tNvyZ6xd/rhP5MQtt/c3C4=
+
+Name: assets/sounds/en_female_expert_squire_ww_thumb.mp3
+SHA1-Digest: DLdo0HznCNkdyAyqfdrFZ13qF+4=
+
+Name: res/drawable-xhdpi-v4/ic_menu_camera.png
+SHA1-Digest: kt5ol8/0/uBpHeUxS1hvJ7xwueQ=
+
+Name: assets/button_back.png
+SHA1-Digest: r1YCnnFKGj7zHIjBD6+29Ds5yog=
+
+Name: assets/sounds/en_female_expert_vidiot_wake.mp3
+SHA1-Digest: m7A1n1fDP5IQZ+LiPrgzCkYmsbc=
+
+Name: assets/sounds/en_female_expert_diseased_wake.mp3
+SHA1-Digest: zPDYkQYvSIlWN85Xhv7j+dqQ3gk=
+
+Name: assets/sounds/en_male_random_19.mp3
+SHA1-Digest: oj4CYmNqBEofvwjnFa3rzuR+5xM=
+
+Name: assets/sounds/en_female_expert_tanner_thumb.mp3
+SHA1-Digest: S0BRD0l4tf5aNEKrdgQMUBe9Cl0=
+
+Name: classes.dex
+SHA1-Digest: 0oMdlsmeF9TnUmxoCa/Qp4luQqk=
+
+Name: assets/sounds/en_male_drunk_wake.mp3
+SHA1-Digest: zpCfKWOd7SiRG3u6fh1HvAMo+Fk=
+
+Name: res/drawable-mdpi-v4/ic_maps_indicator_current_position.png
+SHA1-Digest: aoiPLAcHaBxczlvBgtrPT/6f/q8=
+
+Name: res/layout/modal_alert_container.xml
+SHA1-Digest: 6e3h4RbwzGnqlbLPsnzWWHIoyQg=
+
+Name: res/drawable-ldpi-v4/ic_maps_indicator_current_position.png
+SHA1-Digest: 9l4xfg7wn+12eECskFfB38eiO/Y=
+
+Name: assets/sounds/en_female_expert_auraseer_wake_marks.mp3
+SHA1-Digest: acyEiJhoHLCf4qzWUMTl5zLc6WU=
+
+Name: res/drawable-mdpi-v4/ic_maps_indicator_current_position_anim1.pn
+ g
+SHA1-Digest: m5011md+SeRHI/wnrDw4I3XoIQk=
+
+Name: assets/sounds/en_male_everyone_wake.mp3
+SHA1-Digest: A0C1yaIOEAIKVwiI/6qL7Fc/saQ=
+
+Name: assets/sounds/en_female_expert_pi_duskwake.mp3
+SHA1-Digest: BWNexrL7r4H40dkYyss0DI8MsT4=
+
+Name: res/drawable-mdpi-v4/corona_statusbar_icon_default.png
+SHA1-Digest: 9gVf2iHQ5UCRBPDC8jZ7Pplv+tU=
+
+Name: assets/sounds/en_female_expert_appassassin_wake.mp3
+SHA1-Digest: pv8x9T9/LN3Bl/hBngtOStgINao=
+
+Name: assets/sounds/en_female_doppelganger_auraseer.mp3
+SHA1-Digest: hh7ovRZsNfOaDxMb7p4s2x8jAzg=
+
+Name: assets/sounds/en_male_doppelganger_beholder_seer_wake.mp3
+SHA1-Digest: eN6jOdahHT3e6udqk2p6HAdnZ4A=
+
+Name: assets/sounds/en_female_expert_sentinel_wake.mp3
+SHA1-Digest: 4z28DyBmksurcf+O5R6hjARJ8xw=
+
+Name: assets/sounds/en_female_beholder_close.mp3
+SHA1-Digest: psGpORG/vnosaYjPVD7IFYzkdcg=
+
+Name: assets/sounds/en_female_doppelganger_verb_vidiot.mp3
+SHA1-Digest: K/mhHkuSn8wt2868JidugBB4IHE=
+
+Name: assets/sounds/en_male_expert_doppelganger_revealer_dusk.mp3
+SHA1-Digest: ZN43odUr1O0xfyAUuTcWt3mc3HI=
+
+Name: assets/sounds/en_male_mason_wake.mp3
+SHA1-Digest: ZmYhqICcCnusp4/HUYjeVeoyir4=
+
+Name: assets/sounds/en_male_doppelganger_auraseer.mp3
+SHA1-Digest: ZLNr+8iM+44eaT1uhxewOb796wU=
+
+Name: assets/sounds/en_male_doppelganger_verb_action.mp3
+SHA1-Digest: vs4A5F+02Oo+/s6cgK4SqOFrme4=
+
+Name: assets/sounds/en_female_doppelganger_beholder_seer_wake.mp3
+SHA1-Digest: PHWvHZ03qdJr5905rstEvRzBcDk=
+
+Name: res/raw/amazon_gc_prototype.zip
+SHA1-Digest: PB/BMKfYvivNZEn/FtRAA2NjZy4=
+
+Name: assets/sounds/en_female_doppelganger_verb_seer.mp3
+SHA1-Digest: 6nzjp1nSQGln0yZxZZqsLoh/VUA=
+
+Name: assets/sounds/en_male_doppelganger_revealer_dusk.mp3
+SHA1-Digest: 8vC6dcgKj0NWYZCWAfskQZQrxuc=
+
+Name: assets/sounds/background_spaghetti.mp3
+SHA1-Digest: PjD2t0HBce3y8vzCI7aEurzzNBY=
+
+Name: assets/sounds/en_female_expert_mason_wake.mp3
+SHA1-Digest: kkgs9AOyJufDdj96NdTmvA8qjwU=
+
+Name: assets/sounds/en_male_beholder_appseer_thumb.mp3
+SHA1-Digest: PTHYFH/GkxoydCN7P3lX1T9C+ro=
+
+Name: assets/sounds/en_male_expert_mysticwolf_wake.mp3
+SHA1-Digest: PbuYQXpUmhvLUL5bla3ENqzV2W0=
+
+Name: assets/sounds/en_female_appassassin_assassin_wake.mp3
+SHA1-Digest: 09Q6/DJD4LWS/jlgnd1Il0FhsAQ=
+
+Name: assets/sounds/en_male_doppelganger_verb_cupid.mp3
+SHA1-Digest: EZ/CjRBg0kTghSPp2lIBa4iJ2Xs=
+
+Name: assets/sounds/en_male_doppelganger_verb_diseased.mp3
+SHA1-Digest: OMjD2ThUskbwP2UX5Q4bP9aENh4=
+
+Name: res/raw/corona_asset_widget_theme_android.png
+SHA1-Digest: tfJfBJZmH3HezRPYOXF0WYrYsTk=
+
+Name: assets/sounds/en_female_doppelganger_squire_wake.mp3
+SHA1-Digest: U/uyn/K3Ihkt+FG3cC12rkY7d7E=
+
+Name: assets/sounds/en_male_expert_apptanner_wake.mp3
+SHA1-Digest: GSFTKlENjxhRPr6WRign+OItxLs=
+
+Name: assets/sounds/en_female_auraseer_thumbs.mp3
+SHA1-Digest: O8mu9Wcy1PuAOyjX5udYTM6T1GM=
+
+Name: assets/sounds/en_male_expert_instigator_wake.mp3
+SHA1-Digest: vp9HUunJE5F6yzBOt+eZU5v/8+I=
+
+Name: assets/sounds/en_male_expert_doppelganger_gremlin_wake.mp3
+SHA1-Digest: OpNOzHWjRM4VhCYb1VDhM22GE1Y=
+
+Name: assets/sounds/en_male_beholder_seer_thumb.mp3
+SHA1-Digest: 7gej5UE/KTK89KyiGvwJkKjgrl8=
+
+Name: assets/sounds/en_male_expert_everyone_prepare.mp3
+SHA1-Digest: o7W2MkXXTUzYB4qKS+bcqH9ix8M=
+
+Name: assets/sounds/en_female_squire_ww_thumb.mp3
+SHA1-Digest: GSStcwTJQnUKE8jIIf/sze6K2mI=
+
+Name: assets/sounds/en_male_everyone_timeisup_321vote.mp3
+SHA1-Digest: 7gGZiaStjmHqtHhocCwP/vtAjdw=
+
+Name: assets/sounds/en_female_expert_cupid_wake.mp3
+SHA1-Digest: STkZd5YdVR/VigyLkrPIlJlH2UI=
+
+Name: assets/sounds/en_male_expert_doppelganger_beholder_seer_wake.mp3
+SHA1-Digest: 8N6iBSD/sNHGoIXBZ3eF6Y+ZMDo=
+
+Name: assets/sounds/en_female_expert_doppelganger_count_wake.mp3
+SHA1-Digest: bMc2LYgBISOuLP0PG8/V9LCzdRU=
+
+Name: assets/sounds/en_male_doppelganger_ww_thumb.mp3
+SHA1-Digest: hFcR5+Ajy4vxFKskA/CtrlizilA=
+
+Name: assets/sounds/en_male_random_9.mp3
+SHA1-Digest: 98y+Ga8I4/mHvXAkpGa8d5ED7O0=
+
+Name: assets/sounds/en_female_minion_wake.mp3
+SHA1-Digest: ML0PLIW/fQ6cTCpYtNSLIMO6+/Y=
+
+Name: assets/sounds/en_female_pi_duskonlywake.mp3
+SHA1-Digest: iymk9+IYdwyH5PBLbpqVNfdSrKk=
+
+Name: assets/sounds/en_female_expert_beholder_seer_thumb.mp3
+SHA1-Digest: /Cqj+veGe5OqWhe+qswodwWbiEY=
+
+Name: assets/sounds/en_female_expert_apptanner_wake.mp3
+SHA1-Digest: 1l2lU+myAbVjiMehNPamBrsHMyw=
+
+Name: assets/sounds/en_male_expert_pi_duskonlywake.mp3
+SHA1-Digest: rGgFqqQz/iE4m8r9H2UuNWKl3k8=
+
+Name: assets/sounds/en_female_insomniac_wake.mp3
+SHA1-Digest: YMJwQ5x9EKE1jQcyRti64IIcVw0=
+
+Name: assets/sounds/en_male_doppelganger_appassassin_assassin_wake.mp3
+SHA1-Digest: T34mGOsbj16rerjY0vDcHPvTmyg=
+
+Name: assets/sounds/en_male_random_10.mp3
+SHA1-Digest: 3tYUP3rF801MxOPKtVVA64lelWE=
+
+Name: assets/sounds/en_male_expert_doppelganger_ww_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/help_content_en.html
+SHA1-Digest: F8Ucc90+jsGRo7idtgPg+YdSWzU=
+
+Name: assets/Default-568h@2x.png
+SHA1-Digest: w718hG+ulLk3upyWHZrwMbjRyt8=
+
+Name: assets/sounds/en_male_doppelganger_beholder_appseer_wake.mp3
+SHA1-Digest: K586+8kXOQOgjio1+JzvoNeGk+o=
+
+Name: assets/sounds/en_female_doppelganger_revealer_dusk.mp3
+SHA1-Digest: hfEkrgd3Sh/hmUcfSJXjYU0fHNQ=
+
+Name: assets/sounds/en_male_doppelganger_assassin_wake.mp3
+SHA1-Digest: Ht5nAz47IxAmDdwi0ALqEUPVvYo=
+
+Name: assets/sounds/en_male_lovers_close.mp3
+SHA1-Digest: 3PIkzZj/fPJXkH62ywP1vOQjhas=
+
+Name: assets/sounds/en_male_expert_vampire_wake.mp3
+SHA1-Digest: JNQoxhYJHdnpAiwqBPq2yP+UlMA=
+
+Name: res/drawable-hdpi-v4/ic_menu_refresh.png
+SHA1-Digest: cGE+Xos7DawU3s9aabFh0Wf1Fjo=
+
+Name: assets/sounds/en_male_everyone_dusk.mp3
+SHA1-Digest: hJN2rM1WHi5hl7J28O+FgYCyup0=
+
+Name: lib/armeabi-v7a/libopenal.so
+SHA1-Digest: 4paH2BHiItuXR5zLe+Xa6vf/7Ss=
+
+Name: assets/sounds/en_female_pi_duskwake.mp3
+SHA1-Digest: uzw/asR+SuvT67YZhMl0HJovIdg=
+
+Name: assets/Icon-xxhdpi.png
+SHA1-Digest: idwmXJ8jw4gJgcDUFbqV0gwpjcA=
+
+Name: assets/sounds/en_female_vidiot_wake.mp3
+SHA1-Digest: trP2qKmEpJRNS1gwDZ06NFFiAXY=
+
+Name: assets/sounds/en_male_mysticwolf_wake.mp3
+SHA1-Digest: xwl/jiHn+y788K5bnfKlkP8WT3A=
+
+Name: assets/sounds/en_female_werewolf_lonewolf_option.mp3
+SHA1-Digest: sXprAYoP3ySdbVvSwaN9wng+2BQ=
+
+Name: assets/sounds/en_male_witch_wake.mp3
+SHA1-Digest: 8tRWJ2dA0WgFlceuPf4Ayc8DzJs=
+
+Name: assets/KabelBook.ttf
+SHA1-Digest: 2yV5idIXMYTDtzTEZks5X9RPaIA=
+
+Name: assets/sounds/en_male_expert_doppelganger_revealer_dusk_vampire.
+ mp3
+SHA1-Digest: ZN43odUr1O0xfyAUuTcWt3mc3HI=
+
+Name: assets/sounds/en_female_priest_close.mp3
+SHA1-Digest: GT1R4xR8QansvCty1If4xIe8eL4=
+
+Name: assets/sounds/en_male_doppelganger_verb_thing.mp3
+SHA1-Digest: 5vFXD0AbfJQHyjH8Knkqzh3ruSs=
+
+Name: assets/sounds/en_female_doppelganger_verb_appseer.mp3
+SHA1-Digest: D3oCXhYAgLgreZ8YusTyrP0sngU=
+
+Name: assets/sounds/en_male_copycat_wake.mp3
+SHA1-Digest: a4ctsqmi8mIQZCqztb9KfJH5lbA=
+
+Name: assets/sounds/en_female_expert_mysticwolf_wake.mp3
+SHA1-Digest: KRPtNGqWeQ9+HxBYaRYtE2S456Q=
+
+Name: assets/sounds/en_female_expert_werewolf_dreamwolf_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_male_werewolf_wake.mp3
+SHA1-Digest: hvsmWDJqrpvMSLV0D4x8A02EOaA=
+
+Name: assets/sounds/en_male_vampire_renfield_close.mp3
+SHA1-Digest: wBqe99jutXmtWIjaT7ar9Q4ia84=
+
+Name: assets/sounds/en_male_instigator_wake.mp3
+SHA1-Digest: wrPXs46jWMRTy3HMwfi67+UPYqM=
+
+Name: assets/sounds/en_male_expert_beholder_appseer_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_female_vampire_close.mp3
+SHA1-Digest: 3wvOa94sjViQtQ5GcSgBuPAv6bs=
+
+Name: assets/sounds/en_male_random_3.mp3
+SHA1-Digest: 54HMzN3jHipSiynLo3divfu8JwQ=
+
+Name: assets/sounds/en_female_insomniac_close.mp3
+SHA1-Digest: MpGm35zspeeXJOJ9QdbDrehcQwo=
+
+Name: assets/sounds/en_female_appassassin_wake.mp3
+SHA1-Digest: Ssz03cLSMVh0JROKNaffLu6Zdq4=
+
+Name: assets/sounds/en_male_robber_close.mp3
+SHA1-Digest: GGaKfbKG7Q6QB3QHZOb5L51pTZA=
+
+Name: res/drawable-xxhdpi-v4/icon.png
+SHA1-Digest: idwmXJ8jw4gJgcDUFbqV0gwpjcA=
+
+Name: assets/sounds/en_female_expert_doppelganger_minion.mp3
+SHA1-Digest: 8ugWLG0Ud/gjC96eboeBQGeJgs0=
+
+Name: assets/sounds/en_female_appseer_wake.mp3
+SHA1-Digest: Qb9jgV4rp9DILwy3yYC64MeJ9IE=
+
+Name: assets/sounds/en_male_timer_30sec.mp3
+SHA1-Digest: eHNdC3XxQBAxEduuMIsbheHymug=
+
+Name: assets/sounds/en_female_beholder_seer_appseer_wake.mp3
+SHA1-Digest: TJKqVunq2ab+ayfiPpef3eDDWM8=
+
+Name: res/drawable-xhdpi-v4/ouya_xiaomi_icon.png
+SHA1-Digest: FlHVL0A9FsRnhrVaBs6LQ3ktaXw=
+
+Name: assets/sounds/en_female_expert_doppelganger_appassassin_wake.mp3
+SHA1-Digest: H17moKqDk9r0BeyY4bkILvbAPjo=
+
+Name: res/layout/modal_overlay_container.xml
+SHA1-Digest: /4Csj76VmOQt1C8o/u2duixRPio=
+
+Name: assets/sounds/en_male_werewolf_dreamwolf_wake.mp3
+SHA1-Digest: xI+a8ZwrU15CejN7YQehBtJOzHc=
+
+Name: assets/sounds/en_male_everyone_prepare.mp3
+SHA1-Digest: Lp1h8JUufN75A2fdnQFH60jWb34=
+
+Name: res/drawable-ldpi-v11/corona_statusbar_icon_default.png
+SHA1-Digest: b2BFfENtoiXke3HpdYWBQkyiksg=
+
+Name: assets/sounds/en_female_expert_werewolf_dreamwolf_wake.mp3
+SHA1-Digest: ylomhEq15biSz1Sf3jQ3FRl2rvc=
+
+Name: assets/sounds/en_male_doppelganger_verb_appseer.mp3
+SHA1-Digest: j0xwmbd+ekuhRtJ02PoV8jBDdWE=
+
+Name: assets/sounds/en_male_expert_auraseer_wake_marks.mp3
+SHA1-Digest: YU97+18r8OsFtCiQNFC2k28FR6M=
+
+Name: assets/sounds/en_female_random_2.mp3
+SHA1-Digest: W1A/AGObSQT+AOu9ZR0hOqn94Xk=
+
+Name: assets/sounds/en_male_werewolf_lonewolf_option.mp3
+SHA1-Digest: umaEXFr6r7OmM8GRwSkT4O/11mg=
+
+Name: assets/sounds/en_female_expert_werewolf_wake.mp3
+SHA1-Digest: xFpBLCggdYQiqrTVhe8Qia8+6UE=
+
+Name: assets/sounds/en_female_drunk_wake.mp3
+SHA1-Digest: tR5Kjuq/glSCOf7efjZoIMnQCws=
+
+Name: assets/sounds/en_male_pi_duskonlywake.mp3
+SHA1-Digest: qhaNNCtatUR4Yz7Zk98PG2+w4oc=
+
+Name: assets/sounds/en_male_expert_auraseer_thumbs.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: res/drawable/spinner_11.png
+SHA1-Digest: wTYYQdINYS5hsrX4VnRfiD8nmls=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: AKTTDsx1KjA3rgJVSBZ/ops7FJ8=
+
+Name: assets/sounds/en_male_expert_count_wake.mp3
+SHA1-Digest: P9ZLbIQFssv+T8yhrPhuQlp9dhI=
+
+Name: assets/sounds/en_female_renfield_wake.mp3
+SHA1-Digest: Jt8N0PNJP9ITVOreH48n9nL93Uk=
+
+Name: assets/sounds/en_female_apptanner_close.mp3
+SHA1-Digest: xHVaC42oVavNDds+iBkU41vwXV0=
+
+Name: res/drawable/spinner_10.png
+SHA1-Digest: /ktbd3Hpd+vH/NAhOMqLuMJBmgI=
+
+Name: assets/sounds/en_female_doppelganger_appassassin_assassin_wake.m
+ p3
+SHA1-Digest: HA2xHYj71EWnfNIvdRh/z+fBp0c=
+
+Name: assets/sounds/en_male_doppelganger_revealer.mp3
+SHA1-Digest: KbK3V/Mpsvm10kRDvpKZzV84liw=
+
+Name: assets/sounds/background_cards.mp3
+SHA1-Digest: 4DI+UyFVHoV17Xv2U8oPUFNxWMQ=
+
+Name: res/drawable-hdpi-v11/corona_statusbar_icon_default.png
+SHA1-Digest: AJV5cWWgc+6sUk79mpRXG+ibrjk=
+
+Name: assets/sounds/en_female_doppelganger_verb_copycat.mp3
+SHA1-Digest: I+DiGxoROmJtA/CTOK7TIBivZoU=
+
+Name: assets/sounds/background_disco.mp3
+SHA1-Digest: drThrgV/IPe29TUzR4Fkbq1imFU=
+
+Name: assets/sounds/en_male_beholder_close.mp3
+SHA1-Digest: 7QaZt7PIlkT+DMRtrOmMdDrpak8=
+
+Name: assets/sounds/en_male_cupid_close.mp3
+SHA1-Digest: 1Tb1jmhKYbnstSAcXM+WaKC1h28=
+
+Name: assets/sounds/en_female_werewolf_wake.mp3
+SHA1-Digest: Fm4D6vyuDFbAxVJdqb+vTKilTM4=
+
+Name: res/drawable/spinner_7.png
+SHA1-Digest: s/Pk4IeP+HN+zezu1reapFcDdA8=
+
+Name: res/drawable-hdpi-v9/corona_statusbar_icon_default.png
+SHA1-Digest: 57rvh0LDF3vx2R0mJBmPOs5vVRc=
+
+Name: assets/sounds/en_female_auraseer_close.mp3
+SHA1-Digest: eNns8TKhkPHSvuGFEXB/aY0k+2I=
+
+Name: assets/sounds/en_male_random_11.mp3
+SHA1-Digest: NMgOS2kom2NATXItfxQElb1b540=
+
+Name: assets/sounds/en_female_doppelganger_ww_thumb.mp3
+SHA1-Digest: wWATPHwMmfJF57wBh74dIzKMbSg=
+
+Name: assets/sounds/en_female_doppelganger_close.mp3
+SHA1-Digest: /vzz3yqIp3WRbk47ufrDWuvLdvo=
+
+Name: lib/armeabi-v7a/liblua.so
+SHA1-Digest: wyxVOn34BJnoLbsUbz8iEH/VnEg=
+
+Name: assets/sounds/en_female_expert_auraseer_thumbs.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/background_tense.mp3
+SHA1-Digest: 3fKBovihqTKJdSuKWrqcqVKnbZY=
+
+Name: assets/sounds/en_male_expert_troublemaker_wake.mp3
+SHA1-Digest: 9yWdfGHScmVDwFLE5ygADCA273U=
+
+Name: assets/sounds/en_female_renfield_close.mp3
+SHA1-Digest: cMNiJnirAKCl+WViBlXnP+9AQHQ=
+
+Name: assets/sounds/en_female_timer_30sec.mp3
+SHA1-Digest: Y3viySojf6JwM9AKpv5W6x7rONo=
+
+Name: assets/sounds/en_male_appassassin_close.mp3
+SHA1-Digest: h6i8V22XUsxj/3sjfi+W6dpxw2I=
+
+Name: lib/armeabi-v7a/libjnlua5.1.so
+SHA1-Digest: DnKk946u7mvdRMBeMwdbT0A1itU=
+
+Name: assets/sounds/en_female_expert_doppelganger_wake.mp3
+SHA1-Digest: iUQa2QNvv0pis2NZfCZDtSNHKrs=
+
+Name: res/drawable-xxhdpi-v4/ic_menu_camera.png
+SHA1-Digest: kt5ol8/0/uBpHeUxS1hvJ7xwueQ=
+
+Name: assets/sounds/en_male_random_16.mp3
+SHA1-Digest: jQXSWmBTALkZxZggPlzl18EqVGo=
+
+Name: res/drawable-hdpi-v4/ic_menu_camera.png
+SHA1-Digest: XY2CWFzPYCmeaPa0z+Ac06UIbMs=
+
+Name: res/drawable/spinner_8.png
+SHA1-Digest: 7HfFkCAUqWraAjORT/Qz2xmRPxw=
+
+Name: assets/sounds/en_female_random_15.mp3
+SHA1-Digest: QM1sKPsf47A7QOWwyiy1yd/bQtA=
+
+Name: assets/sounds/en_male_doppelganger_verb_robber.mp3
+SHA1-Digest: +RTI54WqROUuQ/zwvVPUnKhi4ks=
+
+Name: assets/sounds/en_male_everyone_wiggle_mark.mp3
+SHA1-Digest: O+hxSaHvNlLLOh/uOwGqhOphSko=
+
+Name: assets/sounds/en_male_random_17.mp3
+SHA1-Digest: ncrzI/6E3VgZPrL47foJae/JcPE=
+
+Name: assets/sounds/en_male_doppelganger_insomniac.mp3
+SHA1-Digest: X2u6PqYhkujHkIq6O894i7TvaoY=
+
+Name: assets/sounds/en_male_expert_alphawolf_wake.mp3
+SHA1-Digest: rWQpLveH6AKg9Q8zZWJvKiuyYPo=
+
+Name: assets/sounds/en_male_random_7.mp3
+SHA1-Digest: awmAZQmBpKkM6W/ZT6NhCKek5uk=
+
+Name: assets/sounds/en_male_doppelganger_squire_wake.mp3
+SHA1-Digest: R6qGlZWx1avGT6MV1r+ce/rQYtQ=
+
+Name: assets/sounds/en_male_auraseer_close.mp3
+SHA1-Digest: wkxAKs7KtiGS/7DriDVUPd/noDM=
+
+Name: assets/sounds/en_male_doppelganger_renfield_wake.mp3
+SHA1-Digest: F7cCf1Iyog4iWMK6lOlk3Yp7ycE=
+
+Name: assets/sounds/en_male_gremlin_close.mp3
+SHA1-Digest: k/pzhysFSUkBrl9JH0NkSYH5iQE=
+
+Name: assets/cards.png
+SHA1-Digest: YBUu0j+RoqT37RGENN5MGvAijnA=
+
+Name: assets/sounds/en_female_expert_doppelganger_marksman_wake.mp3
+SHA1-Digest: 9xIZYuaOaybE1X7VOkyP8NrQZs0=
+
+Name: assets/sounds/en_female_doppelganger_revealer_dusk_vampire.mp3
+SHA1-Digest: go958GXqijA/fh9n8b9wHuool2Y=
+
+Name: assets/sounds/en_female_expert_revealer_duskwake_vampire.mp3
+SHA1-Digest: qG6n0+O/FkvrMQ/qw+DGaf9Jeas=
+
+Name: com/google/android/vending/licensing/LicenseValidator.java.orig
+SHA1-Digest: eJYxSy/zGxTTNzNcNnVhiiIdavA=
+
+Name: assets/logo_hor_en.png
+SHA1-Digest: 1TCKFBzlhoTKsO/5Wgyv1rju4EI=
+
+Name: assets/sounds/en_male_expert_doppelganger_curator.mp3
+SHA1-Digest: dCOe9bwHt3Ffe7yPh5bvv3H6irM=
+
+Name: res/drawable-hdpi-v4/ic_maps_indicator_current_position_anim2.pn
+ g
+SHA1-Digest: nBWACWH3GbfNv81wU9pP18/4H6U=
+
+Name: assets/sounds/en_female_troublemaker_close.mp3
+SHA1-Digest: EDOMqbM2frauAvis1aEDMEde50g=
+
+Name: assets/sounds/en_male_doppelganger_verb_instigator.mp3
+SHA1-Digest: FscJRrB+DIuzC4A2JsmBK9ii+VI=
+
+Name: assets/sounds/en_male_random_20.mp3
+SHA1-Digest: z9Y88mNARafbbBn/EKxb0MaIWQs=
+
+Name: res/drawable-xhdpi-v4/ic_maps_indicator_current_position_anim1.p
+ ng
+SHA1-Digest: vXDCVmd6GU3uARCm2TLTX39geE0=
+
+Name: assets/sounds/en_female_beholder_seer_appseer_thumb.mp3
+SHA1-Digest: gQ9U+b9bDZCT/KSAodUuVgp/b6A=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_dark_2x.png
+SHA1-Digest: nIXEikhDxT/6gMGu5lgBlMEruiE=
+
+Name: res/drawable/spinner_5.png
+SHA1-Digest: jspKlXwi+0Yn0X4E2pZM8txC50M=
+
+Name: assets/sounds/en_female_drunk_close.mp3
+SHA1-Digest: KVaoTnzeYo+af9pHy48TXqD3RDc=
+
+Name: assets/sounds/en_female_minion_close.mp3
+SHA1-Digest: TOH14zXSeDDwVljWgZ5k58QhtHs=
+
+Name: res/drawable-ldpi-v4/icon.png
+SHA1-Digest: en3EparDLd0gDhs8fy+5ijSy+a8=
+
+Name: assets/sounds/en_male_expert_appassassin_assassin_wake.mp3
+SHA1-Digest: xVmhBdaS8CB1ETHcTvjS9IUPm8k=
+
+Name: assets/sounds/en_male_expert_doppelganger_auraseer.mp3
+SHA1-Digest: ita0VmgFV8M+e6S8Xb7tdOtkYfA=
+
+Name: assets/sounds/en_female_doppelganger_gremlin_wake.mp3
+SHA1-Digest: li6TEgDbT5Ua1vWhJ1jj9mPnQTE=
+
+Name: res/drawable-xhdpi-v11/corona_statusbar_icon_default.png
+SHA1-Digest: It9+PXrvsTWMrrxGfErJnu3FOcI=
+
+Name: assets/sounds/en_female_copycat_wake.mp3
+SHA1-Digest: Sdd6F28ul9Ashp9KCxhFDJwlbCg=
+
+Name: assets/sounds/en_female_expert_beholder_appseer_wake.mp3
+SHA1-Digest: HB+LInEJWVbLI1HGtFmXxxbyX64=
+
+Name: assets/sounds/background_upbeat.mp3
+SHA1-Digest: 7Y6E7TSPnOd42VHgGkZE9VRV8kg=
+
+Name: assets/sounds/en_male_expert_doppelganger_squire_wake.mp3
+SHA1-Digest: f9dCwvbzDhfFk+qcolwtBiHGheU=
+
+Name: res/drawable-mdpi-v9/corona_statusbar_icon_default.png
+SHA1-Digest: xh6zpYW9LRaO3vIgvYUNXFNf5p4=
+
+Name: assets/sounds/en_female_everyone_wiggle.mp3
+SHA1-Digest: VkAk5aoIXsxRIIcZjQtIU5S/43k=
+
+Name: lib/armeabi-v7a/libgameNetwork.so
+SHA1-Digest: W86ZdpVDvNfBPtklmql+zoF4iWQ=
+
+Name: assets/sounds/en_male_doppelganger_beholder_seer_appseer_wake.mp
+ 3
+SHA1-Digest: 5bprBh4RTSA/ARSkv6ngBCdDs9Q=
+
+Name: assets/sounds/en_male_doppelganger_verb_vidiot.mp3
+SHA1-Digest: doe69xffPMRV9nQ/kXM9Pfuowdg=
+
+Name: assets/sounds/en_female_expert_renfield_wake.mp3
+SHA1-Digest: 5OxJOMwzlMYzhVJT4lO9yD993+o=
+
+Name: assets/sounds/en_female_squire_wake.mp3
+SHA1-Digest: yHc9xiotpb2MrqkVoSJWGfbtihg=
+
+Name: assets/sounds/en_female_doppelganger_verb_instigator.mp3
+SHA1-Digest: AuPKWYHNPPXNv63EEwSVmcOl7CU=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_dark.png
+SHA1-Digest: hXVF2n7Il+MVqBSn2s1TYw13I9U=
+
+Name: assets/sounds/en_female_werewolf_dreamwolf_wake.mp3
+SHA1-Digest: U9hy3ktFlkLRN7yeFM8KjAsWLSo=
+
+Name: assets/sounds/en_female_everyone_wake.mp3
+SHA1-Digest: t+CaRCvCofVX2mNTzmdu2skE3bc=
+
+Name: assets/sounds/en_female_expert_doppelganger_beholder_seer_appsee
+ r_wake.mp3
+SHA1-Digest: /KzHlxfv4t8YwBPpjRfVO0Xc/6w=
+
+Name: assets/sounds/sfx_tap.wav
+SHA1-Digest: gUkJr+RQhXSiyHT3UP9QAofaAi0=
+
+Name: assets/sounds/en_male_vampire_renfield_handsaway.mp3
+SHA1-Digest: Y47QyGK+yK+M9P3+3BMPVvahuqQ=
+
+Name: assets/sounds/en_female_random_10.mp3
+SHA1-Digest: F+qtDhiIJef/w+zpqNwcK+0BkJA=
+
+Name: assets/sounds/en_female_random_7.mp3
+SHA1-Digest: 9WmNhxuNLWduzB2G19fjA6Tj7g0=
+
+Name: assets/sets.png
+SHA1-Digest: 5555WHN43BUI3gSsQ+CVCOibflE=
+
+Name: assets/sounds/en_male_expert_revealer_duskwake.mp3
+SHA1-Digest: AvsEoXKK1pYw9yJr3lMdvH76npo=
+
+Name: assets/sounds/en_female_expert_easteregg_weirdos.mp3
+SHA1-Digest: jAG2CF+Djjbmkav7BLDEdgvciD8=
+
+Name: assets/sounds/en_male_doppelganger_verb_alphawolf.mp3
+SHA1-Digest: P1LKqX0ghtzN8UIZnLUGeHunNHU=
+
+Name: assets/sounds/en_female_instigator_close.mp3
+SHA1-Digest: HAckyDfsNG2NdyB7kM3z4Gqoigs=
+
+Name: assets/sounds/en_male_expert_robber_wake.mp3
+SHA1-Digest: /8K4piUnqzC3KuIqYdQIaLOaR0g=
+
+Name: assets/sounds/en_female_expert_troublemaker_wake.mp3
+SHA1-Digest: CUf25Y8nmKaM7d+V+F0E0ERLbKI=
+
+Name: res/drawable-xhdpi-v4/corona_statusbar_icon_default.png
+SHA1-Digest: It9+PXrvsTWMrrxGfErJnu3FOcI=
+
+Name: assets/sounds/en_female_expert_drunk_wake.mp3
+SHA1-Digest: UmYCeHXMkedhfXVnjAFBtLOx/so=
+
+Name: assets/sounds/en_male_squire_close.mp3
+SHA1-Digest: F9suEtOwjeM2Cs8QoWYhv+TvB48=
+
+Name: assets/sounds/en_female_doppelganger_verb_view.mp3
+SHA1-Digest: Lr/XDX8+KgsDY6OJQoTfygt2U2U=
+
+Name: assets/sounds/en_female_lovers_close.mp3
+SHA1-Digest: acjFXotPm3EkaZMxC7nilyh/iCo=
+
+Name: assets/sounds/en_male_apptanner_wake.mp3
+SHA1-Digest: PRtttZsI5xyde7NxPSNe/0xkj8o=
+
+Name: assets/sounds/en_male_vidiot_close.mp3
+SHA1-Digest: UHICxXY/3g2+nNcyovdGStzngp8=
+
+Name: assets/sounds/en_female_cupid_close.mp3
+SHA1-Digest: mK1sUP2soTaQFIxaf2SFPGutMrQ=
+
+Name: assets/sounds/en_male_beholder_seer_wake.mp3
+SHA1-Digest: 2nvSvL7uOlAFXll+XFHIuRu/n8k=
+
+Name: assets/sounds/en_male_everyone_close.mp3
+SHA1-Digest: rwgKRVoxfk6DC8nyGXzzt9shJ/0=
+
+Name: assets/sounds/en_male_mason_close.mp3
+SHA1-Digest: HcPzApOZfxGplOmQzHl2VWyY6Sg=
+
+Name: assets/sounds/en_male_insomniac_wake.mp3
+SHA1-Digest: XjJbleX6HxoC+rEFIbkcjG8yoIw=
+
+Name: assets/Icon-mdpi.png
+SHA1-Digest: DKmM4M3Fcgkh5DsOfUFBziT8ybQ=
+
+Name: assets/sounds/en_male_minion_thumb.mp3
+SHA1-Digest: hFcR5+Ajy4vxFKskA/CtrlizilA=
+
+Name: assets/sounds/en_female_random_17.mp3
+SHA1-Digest: KmdiMYvKsxi2Xxbx4gxuwV5bVTU=
+
+Name: assets/sounds/en_female_random_9.mp3
+SHA1-Digest: pREPecEhlbhxOewOT/hqmxh5bQA=
+
+Name: assets/sounds/en_male_expert_doppelganger_appassassin_assassin_w
+ ake.mp3
+SHA1-Digest: zwPS63CVxwZ1iEq5GvCrV2eDqfM=
+
+Name: assets/sounds/background_rock.mp3
+SHA1-Digest: 2kDiuUfizwUtxyWWIuDsf1wwKGY=
+
+Name: assets/sounds/en_male_appassassin_wake.mp3
+SHA1-Digest: 73uDrUgO+riOriAB8tSb7x73Qnk=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: DKmM4M3Fcgkh5DsOfUFBziT8ybQ=
+
+Name: res/drawable-xhdpi-v4/ic_menu_refresh.png
+SHA1-Digest: focFaJ+4P3lnSjapzrZv1qsAQfE=
+
+Name: assets/sounds/en_male_robber_wake.mp3
+SHA1-Digest: GryjesCCNwSOeqMC835zOMc1hOs=
+
+Name: assets/sounds/en_female_expert_pi_duskonlywake.mp3
+SHA1-Digest: z/Sc9Vs4GqF92w/HJ4demHv/sH0=
+
+Name: assets/sounds/background_pop.mp3
+SHA1-Digest: XhoCMARAwj6jFPRT6fk5b/MhdXg=
+
+Name: assets/sounds/en_female_curator_wake.mp3
+SHA1-Digest: 1RVvhqFa0fyY83QLAoVSjfmr3hg=
+
+Name: assets/sounds/en_male_doppelganger_revealer_dusk_vampire.mp3
+SHA1-Digest: 1fWk2rCEFpkT3R0bLsRQdvvK6bI=
+
+Name: assets/sounds/background_wolves.mp3
+SHA1-Digest: 464C0j+VDjCwohtCAkmeevmj6z0=
+
+Name: assets/sounds/en_male_expert_doppelganger_ev_thumbs.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_light_2x.png
+SHA1-Digest: /SyPRYnkXR3ob9M42LE5v5T4/RI=
+
+Name: res/raw/corona_3rd_party_licenses.txt
+SHA1-Digest: 5xcKBFyUDZxrLzaBssW0i5VRpfg=
+
+Name: assets/sounds/en_male_renfield_close.mp3
+SHA1-Digest: 5y10aGLdgQVfurB1pnD1J+94Jyg=
+
+Name: assets/sounds/en_male_expert_beholder_appseer_wake.mp3
+SHA1-Digest: akWe2tNvyZ6xd/rhP5MQtt/c3C4=
+
+Name: res/drawable-ldpi-v9/corona_statusbar_icon_default.png
+SHA1-Digest: b2BFfENtoiXke3HpdYWBQkyiksg=
+
+Name: lib/armeabi-v7a/libcorona.so
+SHA1-Digest: rEyMmr908pb7QgWvKb6/6xbTTr4=
+
+Name: assets/sounds/en_male_doppelganger_count_wake.mp3
+SHA1-Digest: o5h72oYtQgus1DicPhrSs5eh18c=
+
+Name: assets/sounds/en_male_expert_copycat_wake.mp3
+SHA1-Digest: hG7elfON7zmt/hMGHiCvxfQ8Stk=
+
+Name: assets/sounds/en_male_expert_doppelganger_beholder_seer_appseer_
+ wake.mp3
+SHA1-Digest: 8N6iBSD/sNHGoIXBZ3eF6Y+ZMDo=
+
+Name: assets/sounds/en_female_expert_doppelganger_ww_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_female_doppelganger_verb_sentinel.mp3
+SHA1-Digest: WuiXbwlODCZiMx3nUNPpJeAJGnU=
+
+Name: assets/sounds/en_male_expert_werewolf_dreamwolf_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_male_beholder_appseer_wake.mp3
+SHA1-Digest: kloazhTJCEPMyXvbV18okD39jhs=
+
+Name: res/drawable/spinner_4.png
+SHA1-Digest: syzR6ZCgGB+mlYWJIoQCwTdfa7I=
+
+Name: assets/logo_ver_en.png
+SHA1-Digest: Yh33oK7A/ie1HyLC9CzkALPTMN0=
+
+Name: assets/sounds/en_male_seer_wake.mp3
+SHA1-Digest: SB7Y3KKtXjfLfe2RrgjTXVhTDt0=
+
+Name: assets/sounds/en_male_assassin_appassassin_close.mp3
+SHA1-Digest: kEhCQCVlD3m5dxGw1dn3ix0sme4=
+
+Name: assets/sounds/en_male_revealer_wake.mp3
+SHA1-Digest: ON+gs5Ru0t0l/IcvHclvz+Z2De4=
+
+Name: assets/sounds/en_male_expert_pickpocket_wake.mp3
+SHA1-Digest: 6wQ6cFL8ezQJ5lRuhNsji7KFpeY=
+
+Name: assets/sounds/en_male_vampire_wake.mp3
+SHA1-Digest: KcI1fWXfwHzRliFkRIAqkE0oSgA=
+
+Name: assets/sounds/en_female_expert_beholder_appseer_thumb.mp3
+SHA1-Digest: RoXWyzrPU8bpPnceRhU4cIIOweo=
+
+Name: assets/sounds/en_female_doppelganger_verb_alphawolf.mp3
+SHA1-Digest: /PnBVTeoOIyS+nxSFsRRWSN98V4=
+
+Name: res/drawable-xxhdpi-v11/corona_statusbar_icon_default.png
+SHA1-Digest: apYlwWXfXjE3z0gjUc22sRn+v5s=
+
+Name: assets/sounds/en_male_expert_insomniac_wake.mp3
+SHA1-Digest: XN8QCobeAwX85l0zESzGmt+ksgg=
+
+Name: assets/sounds/en_female_doppelganger_appassassin_wake.mp3
+SHA1-Digest: zxOoM2RRq+L58QJw2ZABmfwHWno=
+
+Name: assets/sounds/en_female_expert_appseer_wake.mp3
+SHA1-Digest: caKKcrcpjJSQyma/f/3QBN8QtAk=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_dark_4x.png
+SHA1-Digest: oZq48qDz9iDrVM9eDjB86QXNpUk=
+
+Name: assets/sounds/en_male_werewolf_dreamwolf_thumb.mp3
+SHA1-Digest: VP/Czy+xo5BNkZVOnOaXlYiG9Vo=
+
+Name: assets/sounds/en_female_doppelganger_assassin_wake.mp3
+SHA1-Digest: eaexfQzqDQESREhk8baUNUpD9KA=
+
+Name: assets/button_gear.png
+SHA1-Digest: u8+NEsYrJ0zlO3rM79bfIF1reSU=
+
+Name: assets/sounds/en_female_sentinel_wake.mp3
+SHA1-Digest: i3aG9o/qY4c9Q7igF+Gx2Y6R9Ds=
+
+Name: lib/armeabi-v7a/libplugins.so
+SHA1-Digest: fgF8EvT6g4NAt0A+vsTbAjaWUKM=
+
+Name: assets/sounds/en_male_doppelganger_verb_pi.mp3
+SHA1-Digest: U+AvZkOOAYJcsuR5R/1veQdXPVo=
+
+Name: res/drawable/spinner_3.png
+SHA1-Digest: URf9E9qWZFr1NfJ/b6jQJmrvQ+4=
+
+Name: assets/sounds/en_male_expert_assassin_wake.mp3
+SHA1-Digest: 5pyJjqHX/6SolczXceYYVDE5zts=
+
+Name: assets/sounds/en_female_expert_witch_wake.mp3
+SHA1-Digest: SBuFOimEQpVekpzq3DSRN9/YdRY=
+
+Name: assets/sounds/en_female_alphawolf_wake.mp3
+SHA1-Digest: LkPMlWsHhIRHjeRkywR5NMn8UD4=
+
+Name: assets/button_sub.png
+SHA1-Digest: X+HB7SOoQdH9bCaMmbHVka2mlMY=
+
+Name: res/drawable-xhdpi-v9/corona_statusbar_icon_default.png
+SHA1-Digest: It9+PXrvsTWMrrxGfErJnu3FOcI=
+
+Name: assets/sounds/en_male_insomniac_close.mp3
+SHA1-Digest: DCwhtkgZRGB48ZCw6EzIqQyT2ic=
+
+Name: res/drawable-xxhdpi-v4/ic_maps_indicator_current_position_anim3.
+ png
+SHA1-Digest: 5oXDjPHjlqo7M83ybeEBpkBrO/k=
+
+Name: assets/sounds/en_male_doppelganger_verb_troublemaker.mp3
+SHA1-Digest: 3uQCgrGnxrQi3lEZ/O3p7QwAnaE=
+
+Name: assets/sounds/en_female_doppelganger_beholder_appseer_wake.mp3
+SHA1-Digest: 0trfrh0lctoqUiDhF7I6H5uxLoU=
+
+Name: res/drawable-mdpi-v4/ic_maps_indicator_current_position_anim3.pn
+ g
+SHA1-Digest: ubwbY4sqYcV3m2XYkMu+msIG4Qw=
+
+Name: assets/sounds/en_male_revealer_close.mp3
+SHA1-Digest: OsH8c2vAVNZu+UNW9O3deDcPlms=
+
+Name: assets/sounds/en_female_doppelganger_auraseer_marks.mp3
+SHA1-Digest: VPjBuj7CcTXS6YDOpE1Jh+2KQT4=
+
+Name: assets/sounds/en_male_doppelganger_verb_copycat.mp3
+SHA1-Digest: jTT/7CNl/XSPfZqIksfj+u1AtV8=
+
+Name: assets/sounds/en_female_beholder_appseer_thumb.mp3
+SHA1-Digest: t8llUkpIKI1ouOZdCn1GrsicFtg=
+
+Name: assets/sounds/en_female_beholder_appseer_wake.mp3
+SHA1-Digest: KHVqFQ4N8p8h2XTcc4CnX4uHhmg=
+
+Name: assets/sounds/en_female_revealer_duskwake_vampire.mp3
+SHA1-Digest: r7YRxuiANPQKhdDVliQ/wSWt8xk=
+
+Name: assets/sounds/en_male_priest_wake.mp3
+SHA1-Digest: YR+SGAYNFx37KDYQLcOCusKuHr0=
+
+Name: res/drawable-xhdpi-v4/ic_maps_indicator_current_position_anim3.p
+ ng
+SHA1-Digest: 5oXDjPHjlqo7M83ybeEBpkBrO/k=
+
+Name: assets/sounds/en_female_random_16.mp3
+SHA1-Digest: LW7ZJmd6hVIBEJwvaHoYmYI52IU=
+
+Name: assets/sounds/en_female_expert_copycat_wake.mp3
+SHA1-Digest: IEPk7iyXm+mi1A2mPm9j5/3S2VE=
+
+Name: assets/sounds/en_male_expert_vampire_renfield_close.mp3
+SHA1-Digest: oC3v2rapIPMWZNjchYKZpHgQi8I=
+
+Name: assets/sounds/en_female_lovers_wake.mp3
+SHA1-Digest: RHPjlhYHr/YHGj2SNYTzoSKlDIc=
+
+Name: assets/sounds/en_female_witch_wake.mp3
+SHA1-Digest: vE+YQn7Y6XxxijtuBcJl4zTUj7g=
+
+Name: assets/sounds/en_male_lovers_wake.mp3
+SHA1-Digest: zXCn6To44Ei08Opi3iuLtDJ1YqU=
+
+Name: assets/sounds/en_female_doppelganger_verb_pi.mp3
+SHA1-Digest: xnF4aekygdcgIh03RKKbk/eo+p4=
+
+Name: assets/sounds/en_male_drunk_close.mp3
+SHA1-Digest: /RMie2FSM0J+aioyFeMOAA16l+4=
+
+Name: assets/sounds/en_male_beholder_seer_appseer_thumb.mp3
+SHA1-Digest: ySMvda6caSYdOyk24QYbeFgrNI8=
+
+Name: assets/sounds/background_crickets.mp3
+SHA1-Digest: Kx6Pp0pZsamiOu0LDtyUMVN53gU=
+
+Name: assets/sounds/en_male_easteregg_weirdos.mp3
+SHA1-Digest: BdbTUnOwcC6dac1gH5WHfXgKt70=
+
+Name: assets/sounds/en_female_doppelganger_marksman_wake.mp3
+SHA1-Digest: bE6izAssoEE0cb4iFPGIxclNyEw=
+
+Name: assets/sounds/en_female_expert_minion_wake.mp3
+SHA1-Digest: 2U/WE/ZFp3SaZTP6kDcfYBBSeGA=
+
+Name: assets/sounds/en_male_seer_close.mp3
+SHA1-Digest: pdMUqycbdMwq7KrCG4w+riVyNe8=
+
+Name: assets/sounds/en_female_auraseer_wake.mp3
+SHA1-Digest: 3pHIyKdDyGyLuCYqZuMC0YhbbFo=
+
+Name: assets/sounds/en_female_expert_robber_wake.mp3
+SHA1-Digest: 9FxNKd74SI+sde6RxjFi/unN7hQ=
+
+Name: assets/sounds/en_male_minion_wake.mp3
+SHA1-Digest: Bag6YpBYrvp3flM8BVoRnen7Hns=
+
+Name: assets/sounds/en_male_expert_minion_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_male_expert_drunk_wake.mp3
+SHA1-Digest: PH6KKBrkEfkClCFocqKD+wS8m1U=
+
+Name: assets/sounds/en_male_expert_renfield_wake.mp3
+SHA1-Digest: lqvcyqTYgy6VfIFz6knYnXS2Kfo=
+
+Name: res/raw/corona_asset_widget_theme_ios_2x.png
+SHA1-Digest: TuI5Urj0I86LpaV4WUyBsfOp+Vw=
+
+Name: assets/sounds/en_female_expert_doppelganger_auraseer_marks.mp3
+SHA1-Digest: IA00GJ0telR/Ab7aN2oqBlxqVj4=
+
+Name: res/drawable-xxhdpi-v4/ic_maps_indicator_current_position_anim2.
+ png
+SHA1-Digest: zvp+SZ9X0Sfa+KT++rE81CIOafw=
+
+Name: assets/sounds/en_female_expert_doppelganger_ev_thumbs.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_female_doppelganger_apptanner_wake.mp3
+SHA1-Digest: WEp62GwOOkGv+lHrxHw5sJYH8dI=
+
+Name: lib/armeabi-v7a/libads.so
+SHA1-Digest: A208EyXR/o8YvqBqpuJjS2G0jJg=
+
+Name: assets/sounds/en_female_doppelganger_verb_thing.mp3
+SHA1-Digest: nzOId1+P7qdSwBRRVXThDAHxavs=
+
+Name: assets/sounds/en_female_witch_close.mp3
+SHA1-Digest: 12v39ueaMloQq92qGOw8TFJSc20=
+
+Name: assets/sounds/en_female_expert_vampire_renfield_close.mp3
+SHA1-Digest: 3wvOa94sjViQtQ5GcSgBuPAv6bs=
+
+Name: assets/sounds/en_male_thing_close.mp3
+SHA1-Digest: BgcizJtdtflE105nYBNh9fc4IM4=
+
+Name: resources.arsc
+SHA1-Digest: 7X7vjaNLnM4BEn3QBY6QGXZfjEA=
+
+Name: assets/sounds/en_male_minion_close.mp3
+SHA1-Digest: mdSOq0hdwCa5BSdAUUhw28hvidU=
+
+Name: assets/sounds/en_female_count_close.mp3
+SHA1-Digest: Fhm7tZeFT6WLyyhtTV+kmtJ+Zds=
+
+Name: assets/sounds/en_female_doppelganger_revealer.mp3
+SHA1-Digest: M4SLbpbOGME6wRA9DxGtDc9hwwc=
+
+Name: assets/sounds/en_female_assassin_wake.mp3
+SHA1-Digest: wKiv+zFCAfB03FsWCG/Fg6gyfFg=
+
+Name: assets/sounds/en_female_doppelganger_count_wake.mp3
+SHA1-Digest: OGpIN3sG4S2pl/NCNFfkUW/3zL4=
+
+Name: assets/sounds/en_male_doppelganger_auraseer_marks.mp3
+SHA1-Digest: MiQpbfyPcrS3VFj4iOke0EL1tIw=
+
+Name: assets/sounds/en_female_expert_squire_wake.mp3
+SHA1-Digest: 9aICGrZ9pDdqf4uPBH/9c6QUr6Y=
+
+Name: assets/sounds/en_male_sentinel_wake.mp3
+SHA1-Digest: aespMAgGkOJOIg6m1zruY3rzwaI=
+
+Name: res/drawable/spinner_1.png
+SHA1-Digest: Sp90buMV8KqVpTocOs7VX1cxdCc=
+
+Name: res/drawable-ldpi-v4/corona_statusbar_icon_default.png
+SHA1-Digest: b2BFfENtoiXke3HpdYWBQkyiksg=
+
+Name: assets/sounds/en_male_expert_doppelganger_count_wake.mp3
+SHA1-Digest: dLMf1/5BSseIx07WYaOqZO5gBqg=
+
+Name: assets/sounds/en_female_doppelganger_verb_diseased.mp3
+SHA1-Digest: G82ON587uPGCScXHR5UiMq5kTp4=
+
+Name: assets/sounds/en_male_alphawolf_close.mp3
+SHA1-Digest: gcXFF4Ro78fHaj2WVg+3u7/YqWA=
+
+Name: assets/sounds/en_female_pickpocket_close.mp3
+SHA1-Digest: 7iUzPJSE74hNZqKS1XHfM9ajBsA=
+
+Name: assets/sounds/en_female_easteregg_really.mp3
+SHA1-Digest: xesp+a0hduWNFMKkQ42CfGe9iM8=
+
+Name: assets/sounds/en_male_doppelganger_minion.mp3
+SHA1-Digest: xd+oegCBvUCu+upQ32j65WVKUMA=
+
+Name: assets/sounds/en_female_expert_doppelganger_apptanner_wake.mp3
+SHA1-Digest: WEp62GwOOkGv+lHrxHw5sJYH8dI=
+
+Name: assets/sounds/en_female_robber_wake.mp3
+SHA1-Digest: hfGQ4yGvO/AALoeX8F+dnNWkvbA=
+
+Name: assets/sounds/en_male_troublemaker_wake.mp3
+SHA1-Digest: NkifmavhKXsrYvAJ7UHpHpJOoqo=
+
+Name: assets/sounds/en_male_random_14.mp3
+SHA1-Digest: Lu1hNM3LBoSBaIWnijtoetlbeBA=
+
+Name: assets/sounds/en_female_expert_revealer_wake.mp3
+SHA1-Digest: qG6n0+O/FkvrMQ/qw+DGaf9Jeas=
+
+Name: assets/sounds/en_male_expert_priest_wake.mp3
+SHA1-Digest: oJBhWhDG1w8ZW0atKictmjDK7+8=
+
+Name: assets/sounds/en_male_assassin_close.mp3
+SHA1-Digest: 9qlwU3eWSgU9PoHy1nJq/Om+X9c=
+
+Name: assets/sounds/en_female_expert_curator_wake.mp3
+SHA1-Digest: craUWtn9oGj3IOk9/3sUuP20icU=
+
+Name: assets/sounds/en_female_pi_wake.mp3
+SHA1-Digest: pNX8Xeu30af1KmE1aRmCZ5l+9xQ=
+
+Name: assets/sounds/en_male_doppelganger_curator.mp3
+SHA1-Digest: kItmjHZ+wImN42zyiEiUQ45qUNc=
+
+Name: assets/sounds/background_fantasy.mp3
+SHA1-Digest: UOc/licwGCC8fq6+12cTVrxu1Qc=
+
+Name: assets/sounds/en_male_vidiot_wake.mp3
+SHA1-Digest: npAuPe9hqT8YUo2/49NrjsR3iOY=
+
+Name: assets/sounds/en_male_pi_close.mp3
+SHA1-Digest: GtIxkM46M/Btwxh9Q+U5NnjJTPU=
+
+Name: assets/sounds/en_female_revealer_wake.mp3
+SHA1-Digest: v/osXjryQRbsdV/xZYJPQj07NX0=
+
+Name: assets/sounds/en_female_assassin_close.mp3
+SHA1-Digest: taCCL07x4Sp5Wp8pWiT/1RxGjZs=
+
+Name: assets/sounds/en_female_expert_revealer_duskwake.mp3
+SHA1-Digest: 1dX/cPpVRC9jI4OwpKj2UPp2vEk=
+
+Name: assets/sounds/en_male_everyone_wiggle.mp3
+SHA1-Digest: 7kZo2UcGwSZ7W2sx9nS6mZeYZog=
+
+Name: res/raw/corona_asset_widget_theme_ios7_2x.png
+SHA1-Digest: 5DQtJk8RzeHgqhvvd1GXlPuziKY=
+
+Name: assets/sounds/en_female_timer_1min.mp3
+SHA1-Digest: dS6VnMhoz9nEkTI5mwfLsCKIoU8=
+
+Name: assets/sounds/en_female_pi_close.mp3
+SHA1-Digest: xYBIfxQ7WAqITBb7DhzdESNtHEw=
+
+Name: assets/sounds/en_female_everyone_prepare.mp3
+SHA1-Digest: th5UiCmEgIevJiYTohPEBgg26Hs=
+
+Name: assets/sounds/en_male_pickpocket_wake.mp3
+SHA1-Digest: FPJMN+ZtnQV+gkqzM82YBuGRpBw=
+
+Name: assets/sounds/en_female_expert_doppelganger_insomniac.mp3
+SHA1-Digest: qUeEXD3kMl8BSqjFzFY5Fhi0VGo=
+
+Name: assets/sounds/en_female_robber_close.mp3
+SHA1-Digest: tD58ZDD6D6lgh+tquGU0WKIun1Y=
+
+Name: assets/sounds/en_male_appseer_close.mp3
+SHA1-Digest: JLdYJpwZyyFDWJJb6/OqghFqyxQ=
+
+Name: assets/sounds/en_female_expert_priest_wake.mp3
+SHA1-Digest: DQhmvHf69jOhHuQu+DSJsOC3mYg=
+
+Name: assets/sounds/en_female_random_13.mp3
+SHA1-Digest: +zMyD1taAqulzxwEwN5NdrGEAcs=
+
+Name: assets/sounds/en_male_random_6.mp3
+SHA1-Digest: +RKYz50+Vaz5n9iF2WTsatVoLeU=
+
+Name: assets/sounds/en_female_expert_doppelganger_squire_wake.mp3
+SHA1-Digest: wLcCBlfLM7Fhbo3F0Ijx2K4Oeik=
+
+Name: assets/sounds/en_female_random_8.mp3
+SHA1-Digest: 5FtvUqNA/FA909Bes+mGhl7FhKc=
+
+Name: assets/sounds/en_male_doppelganger_verb_mysticwolf.mp3
+SHA1-Digest: CkFnXR/9SFXOrr2lsjkadlwjcPk=
+
+Name: assets/bezier.png
+SHA1-Digest: ym5kYMQVpEYEozSQzUsKMNugyAA=
+
+Name: assets/sounds/en_male_expert_doppelganger_minion.mp3
+SHA1-Digest: F/DzHoPDzmPtEgy0zlxSL6/hm6M=
+
+Name: assets/Splash-568h_en.png
+SHA1-Digest: i8LEVAhZ1TJj1kufFNyDNLfitp0=
+
+Name: assets/sounds/en_male_doppelganger_verb_view.mp3
+SHA1-Digest: ID/c2pdGlErlaSjSXoSYrSVetxM=
+
+Name: assets/sounds/en_female_priest_wake.mp3
+SHA1-Digest: ouCkuDS0d67x8TSFVUASC+kq6Fs=
+
+Name: assets/sounds/en_male_random_8.mp3
+SHA1-Digest: b8OO/gME44H8eZFHVOorSsbeg7o=
+
+Name: assets/sounds/en_female_expert_doppelganger_curator.mp3
+SHA1-Digest: /fczDbEBAA3CiqUsLoA9SzCNUtU=
+
+Name: assets/sounds/en_female_diseased_wake.mp3
+SHA1-Digest: 7IrvBmuQwiPc/5Hqn1IPtU/txHE=
+
+Name: assets/sounds/en_male_expert_tanner_thumb.mp3
+SHA1-Digest: PLxsDm4BG3yFtKkXhlTmsZOGSwQ=
+
+Name: assets/sounds/en_female_expert_doppelganger_renfield_wake.mp3
+SHA1-Digest: VNS6br0cJqNdLS7JtnaKBsq9YFo=
+
+Name: res/drawable-xhdpi-v4/banner.png
+SHA1-Digest: O5rhbc3kMcWIwJIy2eDj3MHaEAk=
+
+Name: assets/sounds/en_male_random_2.mp3
+SHA1-Digest: BMA1Nezd4uWhfyrPjKK4dl6wSzY=
+
+Name: assets/sounds/en_male_expert_beholder_seer_appseer_wake.mp3
+SHA1-Digest: akWe2tNvyZ6xd/rhP5MQtt/c3C4=
+
+Name: assets/sounds/en_male_expert_doppelganger_pickpocket_wake.mp3
+SHA1-Digest: EcCATPoLVd4/6M1r/Wij4ATLp5M=
+
+Name: assets/sounds/en_female_squire_close.mp3
+SHA1-Digest: wMycbHN8MtMDy0Pd6pikkucD2Ts=
+
+Name: assets/sounds/en_female_expert_insomniac_wake.mp3
+SHA1-Digest: C4GvgIPMW2KZjnw6Hv+12TGOtB8=
+
+Name: assets/sounds/en_male_random_18.mp3
+SHA1-Digest: UAeHvBbJWZaTEb/V/cTMzowuj+A=
+
+Name: assets/sounds/en_female_auraseer_wake_marks.mp3
+SHA1-Digest: 6z+cSrpiRKK+L1kTrjGrSk9Ev/Q=
+
+Name: assets/sounds/en_female_doppelganger_pickpocket_wake.mp3
+SHA1-Digest: T+TRmcsGdzLioAabkCDwGFZVfWc=
+
+Name: assets/sounds/en_male_cupid_wake.mp3
+SHA1-Digest: s6jD0CwR0fY6zT6hZCsQMBVKfXQ=
+
+Name: assets/sounds/en_female_revealer_duskwake.mp3
+SHA1-Digest: pkAqWqwTs4qQLXwzWLcqt77zQnA=
+
+Name: assets/sounds/en_male_priest_close.mp3
+SHA1-Digest: F+emZf5hRg8hORPvMTjwNxMauWc=
+
+Name: assets/sounds/en_male_expert_pi_duskwake.mp3
+SHA1-Digest: rGgFqqQz/iE4m8r9H2UuNWKl3k8=
+
+Name: assets/sounds/background_dramatic.mp3
+SHA1-Digest: h8FQJK2bNhd/RENRUhO7RSQ7asc=
+
+Name: assets/sounds/en_female_expert_easteregg_really.mp3
+SHA1-Digest: nHINQT8ijTwjyQsimKZCaOQADwo=
+
+Name: assets/sounds/en_male_doppelganger_wake.mp3
+SHA1-Digest: 3GDpbae4zWTLW3HApMVIozsMVbw=
+
+Name: assets/sounds/en_male_random_13.mp3
+SHA1-Digest: tlv4Z133pdBJyqi5GtoHiOVuYvk=
+
+Name: assets/sounds/en_female_expert_doppelganger_auraseer.mp3
+SHA1-Digest: mc7E9LQgH5HzpnFxyezvhrlEcVc=
+
+Name: res/drawable-hdpi-v4/ic_maps_indicator_current_position.png
+SHA1-Digest: cBBoksPeEZDyIDsRIi1PaOCeQpE=
+
+Name: assets/BlackScreen.nib
+SHA1-Digest: o66xAhYVzdlg2Fz29sea3Yo/SEQ=
+
+Name: assets/sounds/en_female_expert_beholder_seer_wake.mp3
+SHA1-Digest: ULbUZKcuoj9P1s31Xk85skx91RA=
+
+Name: assets/sounds/en_male_diseased_wake.mp3
+SHA1-Digest: JVzrPwr3mAs6dJMeHfdq12hmphg=
+
+Name: res/drawable-xhdpi-v4/ic_maps_indicator_current_position_anim2.p
+ ng
+SHA1-Digest: zvp+SZ9X0Sfa+KT++rE81CIOafw=
+
+Name: assets/sounds/en_male_random_12.mp3
+SHA1-Digest: lpvvPrlx8NhgpCZezgEe7jhrVgg=
+
+Name: assets/sounds/en_female_random_12.mp3
+SHA1-Digest: vwTS5zQdRnO7dcZDi8of1E4g0aU=
+
+Name: assets/sounds/en_female_doppelganger_verb_cupid.mp3
+SHA1-Digest: 74A31K/SGrXwc8oW5uLY8tnNiSI=
+
+Name: assets/sounds/en_female_expert_assassin_wake.mp3
+SHA1-Digest: Ly33Y3SuZ3BH8l9iyAboq8kQrW8=
+
+Name: assets/sounds/en_male_auraseer_wake.mp3
+SHA1-Digest: X7ed+OL9CAyPrPQmYY5IQGkXp8Q=
+
+Name: assets/sounds/en_male_doppelganger_close.mp3
+SHA1-Digest: oNHVXPlKPQ7xXA/scz5xPsSMxfY=
+
+Name: assets/sounds/en_male_expert_werewolf_dreamwolf_wake.mp3
+SHA1-Digest: dCNhAamc2VYpYfM0xWS9aToNPi8=
+
+Name: assets/sounds/en_male_random_1.mp3
+SHA1-Digest: 4xacPZYxBIFvlIGvGHuRwt1bJck=
+
+Name: assets/sounds/en_female_expert_doppelganger_assassin_wake.mp3
+SHA1-Digest: /++5tbS/C6SgsoxUWfRy1T+Dy8k=
+
+Name: assets/sounds/en_female_everyone_timeisup_321vote.mp3
+SHA1-Digest: JR6++mEHkbs0wBZ9r/9LoSXO5Jo=
+
+Name: assets/sounds/en_male_random_5.mp3
+SHA1-Digest: w/jFT6yIoEhVCRqwGsEka+fz/HE=
+
+Name: assets/sounds/en_female_expert_doppelganger_pickpocket_wake.mp3
+SHA1-Digest: dQ8448NnsPZ2q3of1/jBRKtbq2w=
+
+Name: assets/sounds/en_female_werewolf_dreamwolf_thumb.mp3
+SHA1-Digest: olH7Mif/8169oqlCM2GLZumlUn8=
+
+Name: assets/sounds/en_male_expert_auraseer_wake.mp3
+SHA1-Digest: 57XsRL2kCFyqmmm3CEx7lraPaa0=
+
+Name: assets/sounds/en_female_easteregg_weirdos.mp3
+SHA1-Digest: suXebjXqMa2zeWCdMVuym5G3aw4=
+
+Name: assets/sounds/en_male_random_4.mp3
+SHA1-Digest: ujmtskvV7PK4uNgNK69pD5nY9Eo=
+
+Name: res/raw/corona_asset_widget_theme_ios7_4x.png
+SHA1-Digest: le/P7GYvXGWVkbrdXjdgr7zotcM=
+
+Name: assets/sounds/en_male_doppelganger_gremlin_wake.mp3
+SHA1-Digest: xVCmwlKd0ro6hUgeTk9PHBS/WWM=
+
+Name: assets/sounds/en_male_doppelganger_marksman_wake.mp3
+SHA1-Digest: Sieb+5HTg5UjUKgQF070Wlm1Gjo=
+
+Name: res/raw/corona_asset_widget_theme_ios.png
+SHA1-Digest: qDi/euKlW9cCvnsFoCJ/8aYeubs=
+
+Name: assets/sounds/en_male_alphawolf_wake.mp3
+SHA1-Digest: kjEkK/NZTcJtP4NHXuuwpTZ7Qdw=
+
+Name: assets/sounds/en_male_doppelganger_verb_wake.mp3
+SHA1-Digest: uQiyaZy07DY4ctyMqKlrzau9rAo=
+
+Name: res/raw/corona_asset_widget_theme_pickerwheel_mask.png
+SHA1-Digest: yM3NpDX1OXBcS44erjFsgrkIWfU=
+
+Name: assets/sounds/en_female_random_14.mp3
+SHA1-Digest: yVzUrFOxGAK904IKyiJDY65xKMw=
+
+Name: res/raw/corona_asset_widget_theme_android_holo_light.png
+SHA1-Digest: wAATmSxcjjgt8D0osdhyhjwygUw=
+
+Name: assets/sounds/en_male_expert_pi_wake.mp3
+SHA1-Digest: rGgFqqQz/iE4m8r9H2UuNWKl3k8=
+
+Name: assets/sounds/en_female_expert_pi_wake.mp3
+SHA1-Digest: z/Sc9Vs4GqF92w/HJ4demHv/sH0=
+
+Name: assets/sounds/en_female_expert_appassassin_assassin_wake.mp3
+SHA1-Digest: B+lqIEyRi/AoyxVMv6F0tLIVrSk=
+
+Name: assets/sounds/en_male_mysticwolf_close.mp3
+SHA1-Digest: /l10FD/hA3YHJiNiE845oGO/pRw=
+
+Name: assets/sounds/en_female_doppelganger_verb_troublemaker.mp3
+SHA1-Digest: sDi+7VK/BBo3Rx8nHIVOzU0HAts=
+
+Name: assets/sounds/background_horror.mp3
+SHA1-Digest: aewfiOZIZJZAg9YEV2AllsvCqoo=
+
+Name: assets/sounds/en_female_gremlin_wake.mp3
+SHA1-Digest: UBmiXuG/qjomnFbpPFTYwccPerY=
+
+Name: res/drawable-ldpi-v4/ic_maps_indicator_current_position_anim3.pn
+ g
+SHA1-Digest: fqZfA1mZI68cGX6sX/u2BMGvhAE=
+
+Name: assets/sounds/en_female_expert_lovers_wake.mp3
+SHA1-Digest: 3CVYXtUtCydXQN2j0s/5Z+bhskU=
+
+Name: res/drawable-ldpi-v4/ic_menu_camera.png
+SHA1-Digest: nd6ZPJVKKCEcE13NGZ6IZ6j1lbQ=
+
+Name: assets/sounds/en_female_random_20.mp3
+SHA1-Digest: m/7gba4o49POIYwpx4nnjvn8i98=
+
+Name: assets/sounds/en_female_doppelganger_beholder_seer_appseer_wake.
+ mp3
+SHA1-Digest: aqjzGhi7FCZ56acaw+6fxGSjgMA=
+

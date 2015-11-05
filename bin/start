@@ -10,5 +10,5 @@ if [ -n "$pid" ]; then
     exit 0
   fi
 fi
-nohup /home/mblackwood/webapps/werewolf/bin/node /home/mblackwood/webapps/werewolf/hello-world.js > /dev/null 2>&1 &
+nohup /home/mblackwood/webapps/werewolf/bin/node /home/mblackwood/webapps/werewolf/server.js > /dev/null 2>&1 &
 /sbin/pidof /home/mblackwood/webapps/werewolf/bin/node > /home/mblackwood/webapps/werewolf/run/node.pid

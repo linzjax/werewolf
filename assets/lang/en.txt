@@ -1,0 +1,370 @@
+--ENGLISH Translation (EN) 3.0.1
+
+--Main Menu:
+Timer = TIMER
+Background_but = Background
+privacy_imprint = Imprint / Privacy
+
+--Settings:
+Narration = NARRATION
+Background = BACKGROUND
+Game Timer = GAME TIMER
+Role Timer = ROLE TIMER
+Other = OTHER
+Edit = Edit
+Learn more about One Night Ultimate Werewolf = Learn more about One Night Ultimate Werewolf
+
+--Volume (abbreviation):
+vol = vol
+
+--Minutes (abbreviation):
+min = min
+
+--Seconds (abbreviation):
+sec = sec
+
+--Narration:
+off = off
+male = male
+female = female
+gender = gender
+Gender Specific = GENDER SPECIFIC
+language = LANGUAGE
+
+--Background:
+crickets = crickets
+cards = cards
+upbeat = upbeat
+disco = disco
+rock = rock
+pop = pop
+wolves = wolves
+dramatic = dramatic
+fantasy = fantasy
+horror = horror
+spaghetti = spaghetti
+tense = tense
+
+--Game Timer:
+1 Minute Warning = 1 MINUTE WARNING
+30 Second Warning = 30 SECOND WARNING
+Mins = Mins
+
+--Role Timer:
+2x Complex Roles = 2x Complex Roles
+Secs = Secs
+
+--Other:
+Other Options = OTHER OPTIONS
+Lone = Lone
+Lone Wolf = LONE WOLF
+Labels = Labels
+Move Your Card = MOVE YOUR CARD
+Move = Move
+
+--Help:
+One Night Ultimate Werewolf App Version = One Night Ultimate Werewolf App Version
+
+--Play:
+PAUSE for = PAUSE for
+seconds = seconds
+
+--Countdown:
+Vote Now = VOTE NOW
+Time = TIME
+Remaining Before Vote = REMAINING BEFORE VOTE
+One Minute Remaining! = ONE MINUTE REMAINING!
+Only 30 Seconds Left! = ONLY 30 SECONDS LEFT!
+
+--Buttons:
+Play = PLAY
+Back = BACK
+Help = HELP
+Main = MAIN
+Stop = STOP
+Pause = PAUSE
+Resume = RESUME
+ 
+--Character Names:
+werewolf = Werewolf
+seer = Seer
+robber = Robber
+minion = Minion
+insomniac = Insomniac
+troublemaker = Troublemaker
+doppelganger = Doppelganger
+alphawolf = Alpha Wolf
+appseer = Apprentice Seer
+drunk = Drunk
+mason = Mason
+mysticwolf = Mystic Wolf
+pi = P.I.
+vidiot = Village Idiot
+sentinel = Sentinel
+dreamwolf = Dreamwolf
+revealer = Revealer
+witch = Witch
+curator = Curator
+villager = Villager
+hunter = Hunter
+tanner = Tanner
+bodyguard = Bodyguard
+auraseer = Aura Seer
+cupid = Cupid
+beholder = Beholder
+assassin = Assassin
+apptanner = Appr Tanner
+appassassin = Appr Assassin
+gremlin = Gremlin
+diseased = Diseased
+master = The Master
+marksman = Marksman
+count = The Count
+thing = Thing
+squire = Squire
+renfield = Renfield
+priest = Priest
+instigator = Instigator
+pickpocket = Pickpocket
+vampire = Vampire
+copycat = Copycat
+prince = Prince
+cursed = Cursed
+
+--Narration:
+werewolf_wake = WEREWOLVES, wake up and look for other Werewolves.
+werewolf_close = WEREWOLVES, close your eyes.
+seer_wake = SEER, wake up. You may look at another player's card or two of the center cards.
+seer_close = SEER, close your eyes.
+robber_wake = ROBBER, wake up. You may exchange your card with another player's card, and then view your new card.
+robber_close = ROBBER, close your eyes.
+minion_wake = MINION, wake up. Werewolves, stick out your thumb so the Minion can see who you are.
+minion_thumb = WEREWOLVES, put your thumb away.
+minion_close = MINION, close your eyes.
+insomniac_wake = INSOMNIAC, wake up and look at your card.
+insomniac_close = INSOMNIAC, close your eyes.
+troublemaker_wake = TROUBLEMAKER, wake up. You may exchange cards between two other players.
+troublemaker_close = TROUBLEMAKER, close your eyes.
+doppelganger_wake = DOPPELGANGER, wake up and look at another player's card. You are now that role. If your new role has a night action, do it now.
+doppelganger_close = DOPPELGANGER, close your eyes.
+alphawolf_wake = ALPHA WOLF, wake up and exchange the center Werewolf card with any other player's card.
+alphawolf_close = ALPHA WOLF, close your eyes.
+appseer_wake = APPRENTICE SEER, wake up. You may look at one of the center cards.
+appseer_close = APPRENTICE SEER, close your eyes.
+drunk_wake = DRUNK, wake up and exchange your card with a card from the center.
+drunk_close = DRUNK, close your eyes.
+mason_wake = MASONS, wake up and look for the other Mason.
+mason_close = MASONS, close your eyes.
+mysticwolf_wake = MYSTIC WOLF, wake up. You may look at another player's card.
+mysticwolf_close = MYSTIC WOLF, close your eyes.
+pi_wake = PARANORMAL INVESTIGATOR, wake up. You may look at up to two cards of other players. If you see a Werewolf or a Tanner, you can no longer look at any cards, and you become a Werewolf or a Tanner.
+pi_close = PARANORMAL INVESTIGATOR, close your eyes.
+vidiot_wake = VILLAGE IDIOT, wake up. You may move everyone's card except your own to the left or to the right.
+vidiot_close = VILLAGE IDIOT, close your eyes.
+sentinel_wake = SENTINEL, wake up. You may place a shield token on any player's card except your own.
+sentinel_close = SENTINEL, close your eyes.
+revealer_wake = REVEALER, wake up. You may turn any other player's card face up. If the card you reveal is a Werewolf or a Tanner, turn it back over face down.
+revealer_close = REVEALER, close your eyes.
+witch_wake = WITCH, wake up. You may look at one of the center cards. If you do, you must exchange that card with any player's card.
+witch_close = WITCH, close your eyes.
+curator_wake = CURATOR, wake up. You may place an Artifact token face down on any player's card.
+curator_close = CURATOR, close your eyes.
+auraseer_wake = AURA SEER, wake up. Anyone who has already moved any card or looked at any card, stick out your thumb.
+auraseer_thumbs = EVERYONE, put your thumbs away.
+auraseer_close = AURA SEER, close your eyes.
+doppelganger_minion = If you are now a Minion, keep your eyes open. Otherwise, close them. Werewolves, stick out your thumb so the Doppelganger-Minion can see who you are.
+doppelganger_ww_thumb = WEREWOLVES, put your thumb away.
+werewolf_lonewolf_option = If there is only one Werewolf, you may look at a card from the center.
+werewolf_dreamwolf_wake = WEREWOLVES, except for the Dreamwolf, wake up and look for other Werewolves. Dreamwolf, stick out your thumb.
+werewolf_dreamwolf_thumb = DREAMWOLF, put your thumb away.
+doppelganger_auraseer = DOPPELGANGER, if you viewed the Aura Seer card, wake up. Anyone who has already moved any card or looked at any card, stick out your thumb.
+doppelganger_ev_thumbs = EVERYONE, put your thumbs away.
+doppelganger_insomniac = DOPPELGANGER, if you viewed the Insomniac card, wake up and look at your card.
+doppelganger_curator = DOPPELGANGER, if you viewed the Curator card, wake up. You may place an Artifact token face down on any player's card that does not already have one.
+doppelganger_revealer = DOPPELGANGER, if you viewed the Revealer card, wake up. You may turn any other player's card face up. If the card you reveal is a Werewolf or a Tanner, turn it back over face down.
+everyone_prepare = Prepare for an epic battle between Villagers, Vampires, and Werewolves.
+everyone_close = EVERYONE, close your eyes.
+everyone_dusk = EVERYONE, wake up and secretly view your Mark.
+everyone_wiggle = EVERYONE, keep your eyes closed, and reach out and move your card around slightly.
+everyone_wake = EVERYONE, wake up.
+everyone_timeisup_321vote = TIME IS UP! EVERYONE, 3...2...1... VOTE!
+easteregg_really = REALLY? YOU'VE SELECTED ALL THE ROLES?
+copycat_wake = COPYCAT, wake up and look at one of the center cards. You are now that role. If that role is called, wake up and do that night action.
+copycat_close = COPYCAT, close your eyes.
+vampire_wake = VAMPIRES, wake up and look for other Vampires. Give any non-vampire player a Mark of the Vampire.
+vampire_close = VAMPIRES, close your eyes.
+count_wake = COUNT, wake up and place the Mark of Fear in front of any non-vampire player.
+count_close = COUNT, close your eyes.
+renfield_wake = RENFIELD, wake up and look around for the Vampires, then place the Mark of the Bat in front of you.
+diseased_wake = DISEASED, wake up and place a Mark of Disease in front of the player to your left or right.
+diseased_close = DISEASED, close your eyes.
+cupid_wake = CUPID, wake up and give any two players the Mark of Love.
+cupid_close = CUPID, close your eyes.
+instigator_wake = INSTIGATOR, wake up. You may give any player a Mark of the Traitor.
+instigator_close = INSTIGATOR, close your eyes.
+priest_wake = PRIEST, wake up and give yourself a Mark of Clarity. You may also give any other player a Mark of Clarity.
+priest_close = PRIEST, close your eyes.
+assassin_wake = ASSASSIN, wake up and place the Mark of the Assassin in front of any player.
+appassassin_wake = APPRENTICE ASSASSIN, wake up and place the Mark of the Assassin in front of any player.
+apptanner_wake = APPRENTICE TANNER, wake up. Tanner, stick out your thumb so the Apprentice Tanner can see who you are.
+apptanner_close = APPRENTICE TANNER, close your eyes.
+thing_wake = THING, wake up and bump the shoulder of the player on your right or your left.
+thing_close = THING, close your eyes.
+marksman_wake = MARKSMAN, wake up. You may view the Mark of one player and the Card of another player.
+marksman_close = MARKSMAN, close your eyes.
+pickpocket_wake = PICKPOCKET, wake up. You may exchange your Mark with another player's Mark, and then view your new Mark.
+pickpocket_close = PICKPOCKET, close your eyes.
+gremlin_wake = GREMLIN, wake up. You may switch Marks or Cards between any two players.
+gremlin_close = GREMLIN, close your eyes.
+squire_wake = SQUIRE, wake up. Werewolves, stick out your thumb so the Squire can see who you are. Squire, you may view the werewolves' cards.
+squire_close = SQUIRE, close your eyes.
+squire_ww_thumb = WEREWOLVES, put your thumb away.
+beholder_close = BEHOLDER, close your eyes.
+vampire_close = VAMPIRES, close your eyes.
+doppelganger_count_wake = DOPPELGANGER, if you viewed the Count card, wake up and place the Mark of Fear in front of any non-vampire player.
+vampire_renfield_close = VAMPIRES, point at the player who has the Mark of the Vampire and close your eyes.
+doppelganger_renfield_wake = DOPPELGANGER, if you viewed the Renfield card, wake up and look around for the Vampires, then place the Mark of the Bat in front of you.
+vampire_renfield_handsaway = VAMPIRES, put your hands away.
+doppelganger_priest_wake = DOPPELGANGER, if you viewed the Priest card, wake up and give yourself a Mark of Clarity. You may also give any other player a Mark of Clarity.
+doppelganger_assassin_wake = ASSASSIN, close your eyes.  DOPPELGANGER, if you viewed the Assassin card, wake up and place the Mark of the Assassin in front of any player.
+assassin_close = ASSASSIN, close your eyes.
+doppelganger_appassassin_wake = APPRENTICE ASSASSIN, close your eyes.  DOPPELGANGER, if you viewed the Apprentice Assassin card, wake up and look for the Assassin. If there is no Assassin, you may place the Mark of the Assassin in front of any player.
+lovers_wake = If you are in Love, wake up and look for your love interest.
+lovers_close = LOVERS, close your eyes.
+doppelganger_apptanner_wake = DOPPELGANGER, if you viewed the Apprentice Tanner card, wake up.
+doppelganger_marksman_wake = DOPPELGANGER, if you viewed the Marksman card, wake up. You may view the Mark of one player and the Card of another player.
+pi_duskonlywake = PARANORMAL INVESTIGATOR, wake up. You may look at up to two cards of other players. If you see a Vampire or a Tanner, you can no longer look at any cards, and you become a Vampire or a Tanner.
+pi_duskwake = PARANORMAL INVESTIGATOR, wake up. You may look at up to two cards of other players. If you see a Werewolf, Vampire, or a Tanner, you can no longer look at any cards, and you become a Werewolf, Vampire, or a Tanner.
+doppelganger_gremlin_wake = DOPPELGANGER, if you viewed the Gremlin card, wake up. You may switch Marks or Cards between any two players.
+revealer_duskwake = REVEALER, wake up. You may turn any other player's card face up. If the card you reveal is a Werewolf, Vampire, or a Tanner, turn it back over face down.
+renfield_close = RENFIELD, close your eyes.
+assassin_appassassin_close = ASSASSIN and APPRENTICE ASSASSIN, close your eyes.
+appassassin_close = APPRENTICE ASSASSIN, close your eyes.
+tanner_thumb = TANNER, put your thumb away.
+revealer_duskwake_vampire = REVEALER, wake up. You may turn any other player's card face up. If the card you reveal is a Vampire or a Tanner, turn it back over face down.
+appassassin_assassin_wake = APPRENTICE ASSASSIN, wake up and look for the Assassin. If there is no Assassin, you may place the Mark of the Assassin in front of any player.
+doppelganger_appassassin_assassin_wake = APPRENTICE ASSASSIN, close your eyes.  DOPPELGANGER, if you viewed the Apprentice Assassin card, wake up and look for the Assassin. If there is no Assassin, you may place the Mark of the Assassin in front of any player.
+doppelganger_pickpocket_wake = DOPPELGANGER, if you viewed the Pickpocket card, wake up. You may exchange your Mark with another player's Mark, and then view your new Mark.
+auraseer_wake_marks = AURA SEER, wake up. Anyone who has already moved any card or Mark or looked at any card or Mark, stick out your thumb.
+doppelganger_auraseer_marks = DOPPELGANGER, if you viewed the Aura Seer card, wake up. Anyone who has already moved any card or Mark or looked at any card or Mark, stick out your thumb.
+beholder_seer_wake = BEHOLDER, wake up. Seer, stick out your thumb. Beholder, you may view the Seer's card.
+beholder_appseer_wake = BEHOLDER, wake up. Apprentice Seer, stick out your thumb. Beholder, you may view the Apprentice Seer's card.
+beholder_seer_appseer_wake = BEHOLDER, wake up. Seer and Apprentice Seer, stick out your thumb. Beholder, you may view the Seer's and the Apprentice Seer's cards.
+doppelganger_beholder_seer_wake = DOPPELGANGER, if you viewed the Beholder card, wake up. Seer, stick out your thumb. Doppelganger, you may view the Seer's card.
+doppelganger_beholder_appseer_wake = DOPPELGANGER, if you viewed the Beholder card, wake up. Apprentice Seer, stick out your thumb. Doppelganger, you may view the Apprentice Seer's card.
+doppelganger_beholder_seer_appseer_wake = DOPPELGANGER, if you viewed the Beholder card, wake up. Seer and Apprentice Seer, stick out your thumb. Doppelganger, you may view the Seer's and the Apprentice Seer's cards.
+beholder_seer_thumb = SEER, put your thumb away.
+beholder_appseer_thumb = APPRENTICE SEER, put your thumb away.
+beholder_seer_appseer_thumb = SEER and APPRENTICE SEER, put your thumb away.
+doppelganger_squire_wake = DOPPELGANGER, if you viewed the Squire card, wake up. Werewolves, stick out your thumb. Doppelganger, you may view the werewolves' cards.
+doppelganger_revealer_dusk_vampire = DOPPELGANGER, if you viewed the Revealer card, wake up. You may turn any other player's card face up. If the card you reveal is a Werewolf, Vampire or a Tanner, turn it back over face down.
+doppelganger_revealer_dusk = DOPPELGANGER, if you viewed the Revealer card, wake up. You may turn any other player's card face up. If the card you reveal is a Vampire or a Tanner, turn it back over face down.
+ = 
+
+--Verbose:
+doppelganger_verb_wake = DOPPELGANGER, wake up and look at another player's card. You are now that role.
+doppelganger_verb_view = If you viewed the
+doppelganger_verb_or = or
+doppelganger_verb_action = card, do your action now.
+doppelganger_verb_alphawolf = Alpha Wolf
+doppelganger_verb_appseer = Apprentice Seer
+doppelganger_verb_copycat = Copycat
+doppelganger_verb_cupid = Cupid
+doppelganger_verb_diseased = Diseased
+doppelganger_verb_drunk = Drunk
+doppelganger_verb_instigator = Instigator
+doppelganger_verb_mysticwolf = Mystic Wolf
+doppelganger_verb_pi = Paranormal Investigator
+doppelganger_verb_robber = Robber
+doppelganger_verb_seer = Seer
+doppelganger_verb_sentinel = Sentinel
+doppelganger_verb_thing = Thing
+doppelganger_verb_troublemaker = Troublemaker
+doppelganger_verb_vidiot = Village Idiot
+doppelganger_verb_witch = Witch
+
+--Expert:
+expert_alphawolf_wake = ALPHA WOLF, wake up.
+expert_appassassin_assassin_wake = APPRENTICE ASSASSIN, wake up.
+expert_appassassin_wake = APPRENTICE ASSASSIN, wake up.
+expert_appseer_wake = APPRENTICE SEER, wake up.
+expert_apptanner_wake = APPRENTICE TANNER, wake up.
+expert_assassin_wake = ASSASSIN, WAKE up.
+expert_auraseer_wake_marks = AURA SEER, wake up.
+expert_auraseer_wake = AURA SEER, wake up.
+expert_beholder_appseer_wake = BEHOLDER, wake up.
+expert_beholder_seer_appseer_wake = BEHOLDER, wake up.
+expert_beholder_seer_wake = BEHOLDER, wake up.
+expert_copycat_wake = COPYCAT, wake up.
+expert_count_wake = COUNT, wake up.
+expert_cupid_wake = CUPID, wake up.
+expert_curator_wake = CURATOR, wake up.
+expert_diseased_wake = DISEASED, wake up.
+expert_doppelganger_appassassin_assassin_wake = APPRENTICE ASSASSIN, close your eyes. DOPPELGANGER, if you viewed the Apprentice Assassin card, wake up.
+expert_doppelganger_appassassin_wake = APPRENTICE ASSASSIN, close your eyes. DOPPELGANGER, if you viewed the Apprentice Assassin card, wake up.
+expert_doppelganger_assassin_wake = ASSASSIN, close your eyes. DOPPELGANGER, if you viewed the Assassin card, wake up.
+expert_doppelganger_auraseer_marks = DOPPELGANGER, if you viewed the Aura Seer card, wake up.
+expert_doppelganger_auraseer = DOPPELGANGER, if you viewed the Aura Seer card, wake up.
+expert_doppelganger_beholder_appseer_wake = DOPPELGANGER, if you viewed the Beholder card, wake up.
+expert_doppelganger_beholder_seer_appseer_wake = DOPPELGANGER, if you viewed the Beholder card, wake up.
+expert_doppelganger_beholder_seer_wake = DOPPELGANGER, if you viewed the Beholder card, wake up.
+expert_doppelganger_count_wake = DOPPELGANGER, if you viewed the Count card, wake up.
+expert_doppelganger_curator = DOPPELGANGER, if you viewed the Curator card, wake up.
+expert_doppelganger_gremlin_wake = DOPPELGANGER, if you viewed the Gremlin card, wake up.
+expert_doppelganger_insomniac = DOPPELGANGER, if you viewed the Insomniac card, wake up.
+expert_doppelganger_marksman_wake = DOPPELGANGER, if you viewed the Marksman card, wake up.
+expert_doppelganger_minion = If you are now a Minion, keep your eyes open. Otherwise, close them.
+expert_doppelganger_pickpocket_wake = DOPPELGANGER, if you viewed the Pickpocket card, wake up.
+expert_doppelganger_priest_wake = DOPPELGANGER, if you viewed the Priest card, wake up.
+expert_doppelganger_renfield_wake = DOPPELGANGER, if you viewed the Renfield card, wake up.
+expert_doppelganger_revealer_dusk_vampire = DOPPELGANGER, if you viewed the Revealer card, wake up.
+expert_doppelganger_revealer_dusk = DOPPELGANGER, if you viewed the Revealer card, wake up.
+expert_doppelganger_revealer = DOPPELGANGER, if you viewed the Revealer card, wake up.
+expert_doppelganger_squire_wake = DOPPELGANGER, if you viewed the Squire card, wake up.
+expert_doppelganger_wake = DOPPELGANGER, wake up.
+expert_drunk_wake = DRUNK, wake up.
+expert_easteregg_really = Really?
+expert_easteregg_weirdos = Wow.
+expert_everyone_prepare = Epic!
+expert_gremlin_wake = GREMLIN, wake up.
+expert_insomniac_wake = INSOMNIAC, wake up.
+expert_instigator_wake = INSTIGATOR, wake up.
+expert_lovers_wake = If you are in Love, wake up.
+expert_marksman_wake = MARKSMAN, wake up.
+expert_mason_wake = MASONS, wake up.
+expert_minion_wake = MINION, wake up.
+expert_mysticwolf_wake = MYSTIC WOLF, wake up.
+expert_nostradamus_wake = NOSTRADAMUS, wake up.
+expert_pi_duskonly_wake = PARANORMAL INVESTIGATOR, wake up.
+expert_pi_duskwake = PARANORMAL INVESTIGATOR, wake up.
+expert_pi_wake = PARANORMAL INVESTIGATOR, wake up.
+expert_pickpocket_wake = PICKPOCKET, wake up.
+expert_priest_wake = PRIEST, wake up.
+expert_renfield_wake = RENFIELD, wake up.
+expert_revealer_duskwake_vampire = REVEALER, wake up.
+expert_revealer_duskwake = REVEALER, wake up.
+expert_revealer_wake = REVEALER, wake up.
+expert_robber_wake = ROBBER, wake up.
+expert_seer_wake = SEER, wake up.
+expert_sentinel_wake = SENTINEL, wake up.
+expert_squire_wake = SQUIRE, wake up.
+expert_thing_wake = THING, wake up.
+expert_troublemaker_wake = TROUBLEMAKER, wake up.
+expert_vampire_renfield_close = VAMPIRES, close your eyes.
+expert_vampire_wake = VAMPIRES, wake up.
+expert_vidiot_wake = VILLAGE IDIOT, wake up.
+expert_werewolf_dreamwolf_wake = WEREWOLVES, except for the Dreamwolf, wake up.
+expert_werewolf_wake = WEREWOLVES, wake up.
+expert_wildling_wake = WILDLING, wake up.
+expert_witch_wake = WITCH, wake up.
+expert_beholder_appseer_thumb = 
+expert_werewolf_dreamwolf_thumb = 
+expert_auraseer_thumbs = 
+expert_doppelganger_ev_thumbs = 
+expert_beholder_seer_appseer_thumb = 
+expert_beholder_seer_thumb = 
+expert_tanner_thumb = 
+expert_vampire_renfield_handsaway = 
+expert_doppelganger_ww_thumb = 
+expert_squire_ww_thumb = 
+expert_minion_thumb = 
