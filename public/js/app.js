@@ -9,7 +9,7 @@ function filename(str) {
 	return [prefix, str, suffix].join('');
 }
 
-$('.play-game').on('click', function() { 
+$('.play-game').on('click', function() {
 	$('.modal').show();
 	var cardNodes = document.querySelectorAll('.card input:checked');
 	var cards = Array.prototype.slice.call(cardNodes, 0);
@@ -56,12 +56,15 @@ $('.play-game').on('click', function() {
 
 });
 
+//in another function
 function playNext(audios, i) {
-    return function(e) {
-    	setTimeout(function() {
-    		audios[(i + 1)][0].play();
-    	}, audios[i][1])
-    };
+	//in a function
+	return function(e) {
+		//function in a function
+		setTimeout(function() {
+			audios[(i + 1)][0].play();
+		}, audios[i][1]);
+	};
 }
 
 function queueAudio(files, backgroundNoise) {
@@ -71,15 +74,18 @@ function queueAudio(files, backgroundNoise) {
 		return [new Audio(filename(name[0])), name[1]];
 	});
 
+	function stopBackground(){
+		backgroundAudio.pause();
+		backgroundAudio.currentTime = 0;
+		$('.modal').hide();
+	}
+
 	for (var i = 0; i < audios.length; i++) {
 		if ((i + 1) < audios.length) {
+			//inside of a final function
 			audios[i][0].addEventListener('ended', playNext(audios, i));
 		} else {
-			audios[i][0].addEventListener('ended', function(){
-				backgroundAudio.pause();
-				backgroundAudio.currentTime = 0;
-				$('.modal').hide();
-			});
+			audios[i][0].addEventListener('ended', stopBackground());
 		}
 	}
 
